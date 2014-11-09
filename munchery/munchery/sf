@@ -1,0 +1,1266 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="lt-ie10 lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="lt-ie10 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]>         <html class="lt-ie10"> <![endif]-->
+<!--[if gt IE 9]><!--> <html> <!--<![endif]-->
+
+      <script type="text/json" id="cart_data" data-zip-id="8" data-order-id="2366241">
+        {"dates":[],"chefs":{},"account":{"zipcode":"94110","fulfillment_center":"SF-MISSION","delivery_windows":[{"range":"5-6pm","cutoff":{"raw":960,"pretty":"4pm"}},{"range":"6-7pm","cutoff":{"raw":960,"pretty":"4pm"}},{"range":"7-8pm","cutoff":{"raw":1080,"pretty":"6pm"}},{"range":"8-9pm","cutoff":{"raw":1080,"pretty":"6pm"}}],"vip_discount":0,"delivery":0.0,"tax":0,"credits":0,"discount":{"code":null,"type":"user","amount":0.0}},"minutes_to_expiry":null,"checksum":"d751713988987e9331980363e24189ce"}
+      </script>
+
+  <script type="text/json" id="cart_settings">
+    {
+      "max_qty_per_item": 10
+    }
+  </script>
+
+  <head>
+    <title>
+        Daily Menu | Gourmet Food Delivery to Your Home or Office | Munchery
+    </title>
+
+    <link rel="shortcut icon" href="/favicon.ico?cachebust=v2" />
+
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="title" content="Daily Menu | Gourmet Food Delivery to Your Home or Office" />
+<meta name="description" content="Order wholesome prepared dinners, handmade by top local chefs using only the best ingredients, for same-day delivery to your home or office." />
+<meta name="keywords" content="food delivery, meal delivery, personal chefs, dinner delivery" />
+<meta name="description" content="" />
+
+<meta name="p:domain_verify" content="70132dc32722935fca437edce26a21bf"/>
+
+<meta property="twitter:account_id" content="205633346" />
+
+<meta name="twitter:title" content="Wholesome Meals in a Snap" />
+<meta name="twitter:description" content="Delivery quick, healthy meals from top local chefs to doorsteps throughout The Bay Area." />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@munchery" />
+<meta name="twitter:site:id" content="205633346" />
+<meta name="twitter:creator" content="@munchery" />
+<meta name="twitter:creator:id" content="205633346" />
+<meta name="twitter:image:src" content="https://munchery.com/assets/munchery_facebook.jpg?secure=false">
+<meta name="twitter:domain" content="munchery.com">
+<meta name="twitter:app:name:iphone" content="Munchery">
+<meta name="twitter:app:name:ipad" content="Munchery">
+<meta name="twitter:app:id:iphone" content="517484130">
+<meta name="twitter:app:id:ipad" content="517484130">
+
+
+
+<meta name="apple-itunes-app" content="app-id=517484130" />
+
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Am4KOrv5coYPOZ2BNJZbbJ0wS1EKXcVT8cSJB4tmST7PS7G4SRRnJn0prhbHGS+0j69AulapuA8lMb75Navo7Q==" name="csrf-token" />
+
+      <base href="https://munchery.com/menus/sf/" />
+
+
+      <meta name="viewport" content="width=1200" />
+
+      <meta property="og:title" content="Munchery" />
+<meta property="og:description" content="Order wholesome prepared dinners, handmade by top local chefs using only the best ingredients, for same-day delivery to your home or office." />
+<meta property="og:url" content="https://munchery.com/menus/sf" />
+<meta property="og:type" content="restaurant" />
+<meta property="og:image" content="https://munchery.com/assets/munchery_facebook.jpg?secure=false" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="Munchery" />
+<meta property="fb:admins" content="664550192" />
+<meta property="fb:app_id" content="169951919734897" />
+<meta property="og:type" content="restaurant" />      
+<meta property="restaurant:website" cont="https://munchery.com/menus/sf" />
+<meta property="place:location:latitude" content="37.762370" />
+<meta property="place:location:longitude" content="-122.412133" />
+<meta property="place:location:altitude" content="42" />
+
+
+      <link href="https://assets0.munchery.com/assets/antenna-4c312aedee4e9d31accfbae75195a06a.css" media="all" rel="stylesheet" type="text/css" />
+
+
+      <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7026852/646862/css/fonts.css" />
+
+    <link href="https://assets1.munchery.com/assets/sitewide_css_manifest-6e82d6a08a698fd26bd57f4e94b6dff5.css" media="all" rel="stylesheet" type="text/css" />
+      <link href="https://assets3.munchery.com/assets/menu_app_css_manifest-bd18cf75e1080b1006e669fbbff361fc.css" media="all" rel="stylesheet" type="text/css" />
+
+
+    <link href="https://assets3.munchery.com/assets/ie_shame-2402e6f36a61406f13fdc9e60f8e8b7e.css" media="all" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21898220-1']);
+  _gaq.push(['_trackPageview']);
+
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+    
+    <!-- Interstate Analytics Tag -->
+<script type="text/javascript">(function(e){e.userKey="";e.init=function(t){e.userKey=t};e.methods=["trackPurchase"];var t=document.createElement("script");t.type="text/javascript";t.async=true;t.src="//cdn.interstateanalytics.com/tracking-min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})(window.interstate=window.interstate||[]);window.interstate.factory=function(e){return function(){var n=Array.prototype.slice.call(arguments);return n.unshift(e),window.interstate.push(n),window.interstate}};for(var i=0;i<window.interstate.methods.length;i++){var key=window.interstate.methods[i];window.interstate[key]=window.interstate.factory(key)}window.interstate.init('7c124a21b973a8760c9a81beee003579ad0cfc2e');</script>
+
+
+    <script src="https://assets0.munchery.com/assets/sitewide_js_manifest-4cbdfe6cc3e11634c92cc2d79cf7fb92.js" type="text/javascript"></script>
+    
+
+  </head>
+
+  <body class="no-fb  "
+        data-remote-ip="108.182.77.30" data-forwarded-for="108.182.77.30, 108.182.77.30" data-host="ip-10-41-60-30"         data-fb-app-id="169951919734897" >
+
+       <a href="/set-site-preference/simple/" class="screen-reader">Go to screen reader optimized menus</a>
+    <a href="#content" class="screen-reader">Skip Navigation</a>
+
+    <noscript>
+  <h4>Sorry, your browser doesn't have JavaScript enabled.<br />This website requires JavaScript for basic functionality.<br /><a href="http://enable-javascript.com/" target="_blank">Find out how to enable JavaScript »</a></h4>
+</noscript>  
+
+    
+<header class="cart-app-root" ng-controller="M.CartApp.CartAppController">
+
+  <div class="persistent-notifications">
+
+
+
+  </div>
+
+  <div class="primary-nav">
+
+    <div class="nav-links container-12">
+
+      <ul class="left grid-5">
+          <li><a href="/menus/" class="primary-nav-link current">Daily Menu</a></li>
+        <li><a href="/how-it-works/" class="primary-nav-link">How It Works</a></li>        
+        <li><a href="/gifts/" class="primary-nav-link">Gifts</a></li>
+        <li><a href="/about/us/" class="dropdown-button primary-nav-link" data-drawer="#learn-more-drawer">More</a></li>
+      </ul>
+
+      <a href="/" class="clickable-center grid-2"> </a>
+
+      <ul class="right grid-5">  
+
+          <li>
+            <a class="image-button cart-button" ng-cloak data-qty="{{M.CartApp.CartAppController.cartQty() || ''}}" data-drawer="#cart-drawer" data-container="#primary-nav-drawers"></a>
+          </li>
+
+          <li><a href data-dialog="#signin-form">Log In</a></li>
+          <li><a href="/users/signup/" class="primary-nav-link">Sign Up</a></li>
+
+
+      </ul>
+      
+    </div>
+  </div><!-- .primary-nav -->
+  <div id="primary-nav-drawers" class="primary-nav-drawers"> 
+    <div id="learn-more-drawer" class="learn-more-drawer drawer">
+    <div class="container-12 clearfix">
+      <div class="pin-to-drawer-bottom">
+        <div class="nav grid-3">
+          <h4>Meet Munchery</h4>
+
+          <ul class="about-nav-links">
+            <li><a href="/about/us/" class="primary-nav-link">Our Story</a></li>
+            <li><a href="/help/" class="primary-nav-link">Service Hours</a></li>
+            <li><a href="/about/press/" class="primary-nav-link">Press</a></li>
+            <li><a href="/jobs/" class="primary-nav-link">Jobs</a></li>
+            <li><a href="http://blog.munchery.com" class="primary-nav-link" target="_blank">Blog</a></li>
+            <li><a href="/help/" class="primary-nav-link">Help</a></li>
+            <li><a href="/about/contact/" class="primary-nav-link">Contact</a></li>
+          </ul>
+        </div>
+        <div class="mobile grid-3">
+          <div class="mobile plug-unit">
+  <h4>Order Anywhere</h4>
+  <a href="http://mnch.in/RgDh" target="_blank">
+    <div class="photo mobile">
+      <div class="mask">Get our app for mobile only sales</div>
+    </div>
+</a></div>
+
+        </div>
+        <div class="social grid-3">
+          <div class="social plug-unit">
+  <h4>Let's Be Friends</h4>
+  <a href="http://www.facebook.com/munchery" target="_blank">
+    <div class="photo">
+      <div class="mask">
+        Like us on Facebook
+        <div class="like"><fb:like href="http://www.facebook.com/munchery" send="false" layout="box_count" width="100" show_faces="false" font=""></fb:like></div>
+      </div>
+    </div>
+  </a>
+</div>
+
+        </div>
+        <div class="help grid-3">
+          <h4>Need Help?</h4>
+          <a href="/help/">Visit the Help Center</a>      
+          <ul class="contact">
+  <li class="contact-email">
+    <div class="left">Email</div>
+    <div class="right"><a href="/support/">Email Support</a></div>
+  </li>
+  <li class="contact-chat">
+    <div class="left">Chat</div>
+    <div class="right">
+      <a href="javascript:;" class="live-chat secondary" id="live-chat">Available</a>&nbsp;&nbsp;<span id="live-chat-status"></span>
+    </div>
+  </li>  
+  <li class="contact-phone">
+    <div class="left">Phone<br />&nbsp;</div>
+    <div class="right">
+      +1 888 458 5376
+      <div class="hours">
+        M-F 9AM-9PM
+      </div>
+    </div>
+  </li>
+</ul>
+        </div>
+      </div>
+    </div>
+</div><!-- .learn-more-drawer -->
+
+  </div>
+
+  <div id="cart-drawer" class="cart-drawer drawer" ng-controller="M.CartApp.CartAppController" ng-class="{ empty: cart_state.summary.qty == 0 }">
+  <div class="container-12 clearfix">
+
+    <div class="grid-12 pin-to-drawer-bottom">
+
+      <div class="full-cart clearfix">
+        <div class="cart-contents">
+          <div>
+            <div class="page-left" ng-hide="cart_state.current_page == 1">
+              <a href ng-click="M.CartApp.CartAppController.cartPrevPage()"> </a>
+            </div>
+            <ul class="page-contents">
+
+              <li class="cart-date" ng-repeat="c in cart_state.page_data[cart_state.current_page - 1]">
+
+                <div class="cart-date-divider" ng-show="$index > 0"> </div>
+                <div class="item-date">{{c.date.pretty.day}}&rsquo;s Bag</div>
+                <ul>
+                  <li class="cart-item" ng-repeat="item in c.items" ng-animate="'animate-cart-item'">
+                    <div class="photo item-photo" source="{{item.photos.small}}"> </div>
+                    <div class="details">
+                      <div class="item-name">{{item.name}}</div>
+                    </div>
+                    <div class="actions" ng-controller="M.CartFormController">
+                      <select name="qty" class="cart-qty-chooser" ng-model="item.qty" ng-options="i for i in M.CartFormController.cartQtyOptions()"></select>
+                      <span class="price">${{item.price.dollars}}.<sup>{{item.price.cents}}</sup></span>
+                    </div>
+                  </li>
+                </ul>
+              </li>
+            </ul><!-- .page-contents -->
+            <div class="page-right" ng-hide="cart_state.current_page == cart_state.page_data.length">
+              <a href ng-click="M.CartApp.CartAppController.cartNextPage()"> </a>
+            </div>
+          </div>
+
+          <ul class="pagination" ng-show="cart_state.page_data.length > 1">
+            <li class="page" ng-repeat="page in cart_state.page_data">
+              <div>
+                <a href ng-class="{ current: $index + 1 == cart_state.current_page }" ng-click="M.CartApp.CartAppController.cartSetPage($index + 1)">{{$index + 1}}</a>
+              </div>
+            </li>
+          </ul>
+        </div><!-- .cart-contents -->
+
+        <div class="cart-summary">
+          <div class="cost-breakdown">
+            <div class="item-amount line-item">
+              <div class="label">Subtotal</div>
+              <div class="value">{{M.CartApp.CartAppController.cartSummary().subtotal | currency}}</div>
+            </div>
+            <div class="discounts line-item" ng-show="M.CartApp.CartAppController.cartSummary().discounts">
+              <div class="label">Discount</div>
+              <div class="discount value">-{{M.CartApp.CartAppController.cartSummary().discounts | currency}}</div>
+            </div>
+            <div class="delivery line-item">
+              <div class="label">Delivery</div>
+              <div class="value" ng-show="M.CartApp.CartAppController.cartSummary().delivery">{{M.CartApp.CartAppController.cartSummary().delivery | currency}}</div>
+              <div class="value" ng-show="M.CartApp.CartAppController.cartSummary().delivery == null">&ndash;</div>
+              <div class="discount value" ng-show="M.CartApp.CartAppController.cartSummary().delivery == 0">Free</div>
+            </div>
+            <div class="delivery line-item">
+              <div class="label">Tax</div>
+              <div class="value" ng-show="M.CartApp.CartAppController.cartSummary().tax != null">{{M.CartApp.CartAppController.cartSummary().tax | currency}}</div>
+              <div class="value" ng-show="M.CartApp.CartAppController.cartSummary().tax == null">&ndash;</div>
+            </div>
+            <div class="credits line-item" ng-show="M.CartApp.CartAppController.cartSummary().credits">
+              <div class="label">Credit</div>
+              <div class="discount value">-{{M.CartApp.CartAppController.cartSummary().credits | currency}}</div>
+            </div>
+            <div class="total line-item">
+              <div class="label">Total</div>
+              <div class="value">{{M.CartApp.CartAppController.cartSummary().total | currency}}</div>
+            </div>
+          </div>
+
+          <div class="cart-discount">
+            <div ng-hide="M.CartApp.CartAppController.cartHasDiscount()">               
+              <a class="show-discount-form secondary" href>Gift or Promo Code?</a>
+              <div class="discount-form">
+                <input class="discount-code-field" type="text" name="discount_code" maxlength="50" placeholder="Enter Code" />
+                <a class="apply-discount button large" href>Apply</a>
+              </div>
+              <div class="errors"></div>
+            </div>
+            <div ng-show="M.CartApp.CartAppController.cartHasDiscount()">
+              <div ng-switch="M.CartApp.CartAppController.cartDiscount().type">
+                <div ng-switch-when="gift_certificate">
+                  {{M.CartApp.CartAppController.cartDiscount().amount | currency}} from Gift Cards was applied to your account.
+                </div>
+                <div ng-switch-when="promotional_code">
+                  Promo code: <span class="code">{{M.CartApp.CartAppController.cartDiscount().code}}</span><br />
+                  <a class="remove-discount" href>Remove this code</a>
+                </div>
+                <div ng-switch-when="invitation_code">
+                  Invitation code: {{M.CartApp.CartAppController.cartDiscount().code}}<br />
+                  <a class="remove-discount" href>Remove this code</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="actions">
+            <button class="large orange checkout" ng-disabled="!cart_state.summary.qty" ng-click="M.CartApp.CartAppController.checkout()" title="Checkout">Checkout</button>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="empty-cart">
+        <p>There are no items in your bag.</p>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div id="expire-cart-dialog" class="cart-expiration-dialog dialog">
+  <h4 style="margin-top:0;margin-bottom:20px"> </h4>
+  <div>
+    We noticed you&rsquo;ve been idle for a while. Due to high demand, we can only keep the items in your bag for a limited time. As long as items are being added to your bag, your bag will remain reserved.
+  </div>        
+  <div style="margin-top: 20px">We recommend that you checkout soon.</div>
+</div><!-- #expire-cart-dialog -->
+
+  
+</header>
+
+
+    <div class="post-header">
+      
+
+      <div class="container-12 clearfix">
+        <a name="content"></a>
+        
+
+
+
+
+
+  
+<div id="menu-detail-nav-drawers" class="menu-detail-nav-drawers"> </div>
+
+<div class="menu-view" ui-view="paginated_menu_view"> </div>
+
+
+      </div>
+
+      
+
+      <footer class="container-12 clearfix">
+    <div class="social-links">
+      <div class="clearfix" style="margin:0px auto; display:inline-block;">
+        <div class="float-left" style="margin-right: 20px">
+          <fb:like href="http://www.facebook.com/munchery" send="false" layout="button_count" width="100" show_faces="false" font=""></fb:like>
+        </div>  
+        <div class="float-left">
+          <a data-pin-do="buttonFollow" href="http://www.pinterest.com/munchery/">Pinterest</a>
+        </div>
+        <div class="float-left" style="margin: 0 0 0 20px;">
+          <a href="https://twitter.com/munchery" class="twitter-follow-button" data-show-count="false">Follow @munchery</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </div>
+      </div>
+    </div>
+    <div class="footer-links">
+      <a href="/about/us/">About Us</a>
+      <a href="/help/">Service Hours</a>
+      <a href="http://blog.munchery.com" target="_blank">Blog</a> 
+      <a href="http://mnch.in/RgDh">iPhone App</a> 
+      <a href="/jobs/">Jobs</a>  
+      <a href="/chef-application/">For Chefs</a> 
+      <a href="/about/privacy-and-terms-of-service/">Privacy &amp; Terms</a> 
+      <a href="/help/">Help</a>
+    </div>
+
+</footer>
+
+
+      
+
+        <script src="https://assets3.munchery.com/assets/menu_app_js_manifest-b44408ca1f311a9c89f805bcf61aa9f8.js" type="text/javascript"></script>
+
+  <script src="https://assets0.munchery.com/assets/isotope/isotope-2.0-68f0dd799b6b266e54425d8d8a2622e6.js" type="text/javascript"></script>
+
+
+    <script type="text/json" class="menu-page-data" page="0" data-region="SF" data-zipcode="94110" data-fulfillment-center="SF-MISSION">
+      {"toc":[{"api":"2014-11-07","special":false,"pretty":{"day":"Today","date":"Fri 11/7","medium":"Today 11/7"}},{"api":"2014-11-10","special":false,"pretty":{"day":"Monday","date":"Mon 11/10","medium":"Monday 11/10"}},{"api":"2014-11-11","special":false,"pretty":{"day":"Tuesday","date":"Tue 11/11","medium":"Tuesday 11/11"}},{"api":"2014-11-12","special":false,"pretty":{"day":"Wednesday","date":"Wed 11/12","medium":"Wednesday 11/12"}},{"api":"2014-11-13","special":false,"pretty":{"day":"Thursday","date":"Thu 11/13","medium":"Thursday 11/13"}},{"api":"2014-11-14","special":false,"pretty":{"day":"Friday","date":"Fri 11/14","medium":"Friday 11/14"}}],"toc_checksum":"a9f9af0e86cec37c3dcf9a69a15e63c3","index":0,"future":false,"menu":{"sections":[{"name":"Entrees","items":[{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41671,"name":"Grilled Teriyaki Chicken Bento","subtitle":"mixed lettuces and Japanese style potato salad","description":"Grilled boneless chicken breast with a bed of garden lettuces. Served with a Japanese style potato salad with carrots and cucumber. Enjoy!","position":0,"url":"grilled-teriyaki-chicken-bento","price":{"dollars":"10","cents":"95"},"rating":{"count":0,"avg":0.0},"heating_instruction":"Set aside teriyaki sauce and potato salad.\r\n\r\nOVEN: Place tray on baking sheet. Remove any plastic. Preheat to 375 degrees. Heat 10-14 minutes, or until heated through. \r\n\r\nMICROWAVE: Heat 1-2 minutes (timing varies depending on your microwave).\r\n\r\nPour sauce over chicken and enjoy!","prep_instructions":"Set aside teriyaki sauce and potato salad.","microwave_instructions":"Heat 1-2 minutes (timing varies depending on your microwave).","oven_instructions":"Preheat to 375 degrees. Heat 10-14 minutes, or until heated through.","stovetop_instructions":"","serving_instructions":"Pour sauce over chicken and enjoy!","show_instructions":true,"section":"entree","meal_type":"Complete Meal","dietary_preferences":["Organic","Nut-free","Dairy-free"],"is_spicy":false,"photos":{"menu":"https://images1.munchery.com/menu-items/5907/2014-10-03-30246-edit.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=a7a562a720bed759474ea1e6bea64045","menu__retina":"https://images3.munchery.com/menu-items/5907/2014-10-03-30246-edit.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=1bc61673fd7785c7e5b920b4e87821c7","menu_detail":"https://images1.munchery.com/menu-items/5907/2014-10-03-30246-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=5465c1281b34a9c58e39a39169f3d537","menu_detail__retina":"https://images2.munchery.com/menu-items/5907/2014-10-03-30246-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=a00191234e16d43a6946fa7fbb8a0b7b","menu_detail_large":"https://images3.munchery.com/menu-items/5907/2014-10-03-30246-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=bcb0100f2b3039fca950b6682323af0e","menu_detail_large__retina":"https://images0.munchery.com/menu-items/5907/2014-10-03-30246-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=b35ec65940cd7999b0170ee4406f04ee"},"ingredient_list":["Chicken breast","Potatoes","Mixed Greens","Red tomatoes","Oranges","Water","Carrots","Cucumber","Mirin","Mayonnaise (contains egg)","Soy sauce","Sugar","Black pepper","Sesame Seeds","Garlic","Ginger root","Kosher Salt"],"nutrition_facts":{"servings_per_container":"1.5","calories":440,"calories_from_fat":140,"total_fat":"16g","saturated_fat":"4.0g","trans_fat":"0g","polyunsaturated_fat":"4.0g","monounsaturated_fat":"6g","cholesterol":"140mg","sodium":"450mg","total_carbohydrate":"21g","dietary_fiber":"5g","sugar":"2g","protein":"54g"},"chef":60},{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41683,"name":"Spice Rubbed Grilled Flank Steak","subtitle":"fingerling potatoes, shallots and green beans","description":"This is a nice Fall supper. The flank steak has been seasoned with a mixture of spices and grilled to medium rare. It's served with a sautee of fingerling potatoes and shallots with a side of green beans. Enjoy!","position":0,"url":"spice-rubbed-grilled-flank-steak","price":{"dollars":"10","cents":"95"},"rating":{"count":11,"avg":3.7},"heating_instruction":"OVEN: Place tray on baking sheet. Remove any plastic. Preheat to 350 degrees. Place container on sheet pan and heat 7-9 minutes or until heated through. \r\n\r\nMICROWAVE: Heat for 2-3 minutes (timing varies depending on microwave).\r\n\r\nEnjoy!","prep_instructions":"","microwave_instructions":"Heat for 2-3 minutes (timing varies depending on microwave).","oven_instructions":"Preheat to 350 degrees. Place container on sheet pan and heat 7-9 minutes or until heated through.","stovetop_instructions":"","serving_instructions":"Enjoy!","show_instructions":true,"section":"entree","meal_type":"Complete Meal","dietary_preferences":["Nut-free"],"is_spicy":false,"qty_remaining":9,"photos":{"menu":"https://images1.munchery.com/menu-items/4027/2014-05-13-16751-edit.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=614f6eaa79868b3324d8513dcc0ab7dd","menu__retina":"https://images2.munchery.com/menu-items/4027/2014-05-13-16751-edit.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=bc2edfe3ae810a32c2de80e3f507efe3","menu_detail":"https://images2.munchery.com/menu-items/4027/2014-05-13-16751-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=e62edea9fef8248e26d7c61fdf42d393","menu_detail__retina":"https://images1.munchery.com/menu-items/4027/2014-05-13-16751-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=69bc9722d750c2bbf1609bd12ecd18be","menu_detail_large":"https://images2.munchery.com/menu-items/4027/2014-05-13-16751-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=a746107e4dacea0f1ceb3c40f20cbec0","menu_detail_large__retina":"https://images3.munchery.com/menu-items/4027/2014-05-13-16751-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=79e68f573de0c82642f966c4844f0fd6"},"ingredient_list":["Beef flank steak","Sweet red peppers","Potatoes","Green Snap Beans","Shallots","Parsley","Garlic powder","Brown Sugar","Onion powder","Black pepper","Paprika","Kosher Salt"],"nutrition_facts":{"servings_per_container":"1.5","calories":430,"calories_from_fat":110,"total_fat":"12g","saturated_fat":"4.5g","trans_fat":"0g","polyunsaturated_fat":"1.0g","monounsaturated_fat":"4.5g","cholesterol":"105mg","sodium":"470mg","total_carbohydrate":"38g","dietary_fiber":"8g","sugar":"11g","protein":"43g"},"chef":102},{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41686,"name":"Butcher's Salad","subtitle":"hard salami, ricotta salata, casteltrevano olives","description":"Chopped antipasto \"Butchers\" salad with little gem lettuce, local Fatted Calf salami, applewood ham, casteltrevano olives, french cornichon, ricotta salata cheese, all tossed with whole grain balsamic vinaigrette.","position":0,"url":"butchers-salad","price":{"dollars":"8","cents":"50"},"rating":{"count":1,"avg":5.0},"heating_instruction":"Toss salad with vinaigrette and enjoy!","prep_instructions":"","microwave_instructions":"","oven_instructions":"","stovetop_instructions":"","serving_instructions":"Toss salad with vinaigrette and enjoy!","show_instructions":true,"section":"entree","meal_type":"Complete Meal","dietary_preferences":["Low Carb","Gluten-free","Nut-free"],"is_spicy":false,"photos":{"menu":"https://images0.munchery.com/menu-items/3649/2014-03-24-11121-edit.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=03420e01473a8eebd4adc006f19fd8f5","menu__retina":"https://images2.munchery.com/menu-items/3649/2014-03-24-11121-edit.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=cce41021073b1b42cfc9beb9d8faa6c8","menu_detail":"https://images3.munchery.com/menu-items/3649/2014-03-24-11121-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=d2eaa26e743819cdcd14078cfb42a2ed","menu_detail__retina":"https://images3.munchery.com/menu-items/3649/2014-03-24-11121-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=29fdece46f1cce54886147e54aaedb3c","menu_detail_large":"https://images2.munchery.com/menu-items/3649/2014-03-24-11121-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=6cae80101739a3c1c3eac46290856a58","menu_detail_large__retina":"https://images0.munchery.com/menu-items/3649/2014-03-24-11121-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=c24208ef1727ebe2af2c04fb50174144"},"ingredient_list":["Little Gem lettuce","Cured ham","Dry salami","Ricotta salata","Cucumber pickles","Balsamic vinegar","Onions","Olive Oil","Olives","Whole grain mustard "],"nutrition_facts":{"servings_per_container":"1.0","calories":390,"calories_from_fat":220,"total_fat":"25g","saturated_fat":"10g","trans_fat":"0g","polyunsaturated_fat":"2.0g","monounsaturated_fat":"9g","cholesterol":"90mg","sodium":"2680mg","total_carbohydrate":"13g","dietary_fiber":"3g","sugar":"6g","protein":"27g"},"chef":90},{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41692,"name":"Catalan Style Seared Salmon","subtitle":"orzo, sun dried tomatoes, romesco sauce","description":"Seared salmon, with an orzo salad (sun dried tomatoes, olives, onions) that is great at room temp or warmed. This dish is topped with one of my favorite sauces - Romesco, a nut and red pepper-based sauce from Tarragona, Catalonia, Spain.","position":0,"url":"catalan-style-seared-salmon","price":{"dollars":"11","cents":"95"},"rating":{"count":12,"avg":3.8},"heating_instruction":"Set aside romesco and greens.  Orzo salad can be served warm or at room temp.\r\n\r\nOVEN: Place tray on baking sheet. Remove any plastic if present. Preheat to 375. Heat salmon for 3-4 min, or until warm. \r\n\r\nMICROWAVE: Heat 1-2 min, or until warm.\r\n\r\nTop with romesco and greens.  Enjoy!","prep_instructions":"Set aside romesco and greens.  Orzo salad can be served warm or at room temp.","microwave_instructions":"Heat 1-2 min, or until warm.","oven_instructions":"Preheat to 375. Heat salmon for 3-4 min, or until warm.","stovetop_instructions":"","serving_instructions":"Top with romesco and greens.  Enjoy!","show_instructions":true,"section":"entree","meal_type":"Complete Meal","dietary_preferences":["Dairy-free"],"is_spicy":false,"photos":{"menu":"https://images3.munchery.com/menu-items/2871/img-3064-edit.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=53b0e2ef29559e70eada7baefeb05236","menu__retina":"https://images1.munchery.com/menu-items/2871/img-3064-edit.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=97f4c31d55d53f0452e5f35e8d9d51b5","menu_detail":"https://images2.munchery.com/menu-items/2871/img-3064-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=d5cc99b4830e7fdf178a65ba76e9ec38","menu_detail__retina":"https://images1.munchery.com/menu-items/2871/img-3064-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=15aa303112dea419484146c0d658adf4","menu_detail_large":"https://images1.munchery.com/menu-items/2871/img-3064-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=2d08a33d63c07cddf6dd7d306b0f5fd0","menu_detail_large__retina":"https://images1.munchery.com/menu-items/2871/img-3064-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=7e870813c52867e9b85614f86b00860f"},"ingredient_list":["Farmed Salmon","Pasta","Black walnuts","Italian White Bread","Red tomatoes","Roasted Red Peppers","Sun-dried tomatoes","Yellow onions","Arugula","Black pepper","Kosher Salt","Olives","Red wine vinegar","Olive Oil"],"nutrition_facts":{"servings_per_container":"1.5","calories":720,"calories_from_fat":340,"total_fat":"38g","saturated_fat":"8g","trans_fat":"0g","polyunsaturated_fat":"11g","monounsaturated_fat":"11g","cholesterol":"185mg","sodium":"550mg","total_carbohydrate":"30g","dietary_fiber":"less than 1g","sugar":"0g","protein":"60g"},"chef":92},{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41698,"name":"California Korean \"Rice Bowl\"","subtitle":"kale, quinoa, sprouts, cucumbers, kimchee, sesame","description":"Perfect for those on a health kick!  This is a fun take on a Korean rice bowl. I swapped out the rice for protein packed quinoa. It comes with Korean barbecue sauce, assorted veggies, tofu and lettuce or nori for wrapping. The vegetables are kale, sprouts, cucumbers, shiitake mushrooms, carrots and fresh kimchee.","position":0,"url":"california-korean-rice-bowl","price":{"dollars":"9","cents":"95"},"rating":{"count":18,"avg":4.2},"heating_instruction":"Pour BBQ sauce over. Enjoy!","prep_instructions":"","microwave_instructions":"","oven_instructions":"","stovetop_instructions":"","serving_instructions":"Pour BBQ sauce over. Enjoy!","show_instructions":true,"section":"entree","meal_type":"Complete Meal","dietary_preferences":["Dairy-free","Vegan","Vegetarian","Organic","Nut-free"],"is_spicy":false,"photos":{"menu":"https://images3.munchery.com/menu-items/3210/2013-12-06-4527-edit.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=56aeca0180194e7fe240c94a49926648","menu__retina":"https://images1.munchery.com/menu-items/3210/2013-12-06-4527-edit.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=14e74b33ea5df0bb93ed6871cd0e65be","menu_detail":"https://images2.munchery.com/menu-items/3210/2013-12-06-4527-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=affbd862d42a9f924a66583bd3692ae4","menu_detail__retina":"https://images1.munchery.com/menu-items/3210/2013-12-06-4527-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=d1ab59a0c18ff18746d275009aa777d6","menu_detail_large":"https://images3.munchery.com/menu-items/3210/2013-12-06-4527-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=014667859d24cdf8b567f320e115e208","menu_detail_large__retina":"https://images0.munchery.com/menu-items/3210/2013-12-06-4527-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=93e5081bebbc51ee53cfc90440426828"},"ingredient_list":["Quinoa","Firm Tofu","Little Gem lettuce","Daikon sprouts","Daikon radish","Kale","Bean sprouts","Brown Sugar","Carrots","Cucumber","Napa Cabbage","Rice wine vinegar","Shiitake Mushrooms","Soy sauce","Ginger root","Nori","Sambal sauce","Scallions","Lemon juice","Oranges","Sesame Seeds","Black pepper","Kosher Salt"],"nutrition_facts":{"servings_per_container":"1.5","calories":290,"calories_from_fat":210,"total_fat":"23g","saturated_fat":"0.5g","trans_fat":"0g","polyunsaturated_fat":"1.5g","monounsaturated_fat":"1.0g","cholesterol":"0mg","sodium":"610mg","total_carbohydrate":"44g","dietary_fiber":"10g","sugar":"4g","protein":"17g"},"chef":98},{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41701,"name":"Acorn Squash Tagine","subtitle":"whole wheat couscous and chermoula","description":"Moroccan style vegetable and garbanzo bean stew with preserved lemons and raisins. Served with turmeric organic  couscous. Together they are a source of complete protein for a satisfying, nutritious vegan dish. Accompanied by chermoula a flavorful mildly hot sauce.\r\nThe acorn squash can and should be consumed with its skin!\r\nEnjoy!","position":0,"url":"acorn-squash-tagine","price":{"dollars":"9","cents":"95"},"rating":{"count":11,"avg":4.0},"heating_instruction":"Set aside chermoula sauce. Pour tagine over couscous and squash.\r\n\r\nOVEN: Place tray on baking sheet. Remove any plastic if present. Preheat to 350 degrees. Heat 8-10 minutes, or until heated through. \r\n\r\nMICROWAVE: Heat 2-3 minutes (timing varies depending on your microwave).\r\n\r\nEnjoy!","prep_instructions":"Set aside chermoula sauce. Pour tagine over couscous and squash.","microwave_instructions":"Heat 2-3 minutes (timing varies depending on your microwave).","oven_instructions":"Preheat to 350 degrees. Heat 8-10 minutes, or until heated through.","stovetop_instructions":"","serving_instructions":"Enjoy!","show_instructions":true,"section":"entree","meal_type":"Complete Meal","dietary_preferences":["Organic","Vegetarian","Vegan","Dairy-free","Nut-free"],"is_spicy":false,"photos":{"menu":"https://images1.munchery.com/menu-items/5645/2014-09-09-28544-edit.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=e3ea27688a43ce2b644dfa12ec33dabc","menu__retina":"https://images2.munchery.com/menu-items/5645/2014-09-09-28544-edit.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=d1dda26d2f5eb5e43c1fd2528c33b877","menu_detail":"https://images0.munchery.com/menu-items/5645/2014-09-09-28544-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=ad91103677b41cd5e1b6886542ab8ba6","menu_detail__retina":"https://images1.munchery.com/menu-items/5645/2014-09-09-28544-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=1db437411d821c608d3b349f0108abd5","menu_detail_large":"https://images3.munchery.com/menu-items/5645/2014-09-09-28544-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=10e6bd55b232f34d7ef5b7f4ed12d933","menu_detail_large__retina":"https://images0.munchery.com/menu-items/5645/2014-09-09-28544-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=df77ece9707307c07875d84b6e860271"},"ingredient_list":["Vegetable stock","Acorn squash","Chickpeas","Couscous","Water","Baby zucchini","Carrots","Celery","Onions","Sweet red peppers","Golden raisins","Canola oil","Olive Oil","Ginger root","Cilantro","Lemon peel","Garlic","Parsley","Bay leaf","Black pepper","Cardamom","Chile pepper flakes","Cinnamon","Cloves","Coriander","Cumin","Kosher Salt","Paprika","Saffron","Turmeric"],"nutrition_facts":{"servings_per_container":"1.0","calories":490,"calories_from_fat":30,"total_fat":"3.5g","saturated_fat":"0g","trans_fat":"0g","polyunsaturated_fat":"1.5g","monounsaturated_fat":"0.5g","cholesterol":"0mg","sodium":"330mg","total_carbohydrate":"101g","dietary_fiber":"19g","sugar":"11g","protein":"19g"},"chef":116},{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41713,"name":"Lamb and Goat Cheese Moussaka","subtitle":"with a small Greek salad","description":"A classic Greek Diner comfort dish. Kind of a Greek lasagne made with layers of breaded eggplant, ground lamb stewed with tomato, onion, garlic, oregano, basil and a hint of cumin and cinnamon, a creamy béchamel sauce, crumbled goat cheese and toasted bread crumbs. Served with a \"Greek Salad\" of chopped romaine, red onions, tomatoes, cucumbers, olives, feta cheese and a lemon vinaigrette.","position":0,"url":"lamb-and-goat-cheese-moussaka","price":{"dollars":"10","cents":"95"},"rating":{"count":53,"avg":4.6},"heating_instruction":"Set aside salad & vinaigrette.\r\n\r\nOVEN: Place tray on baking sheet. Remove any plastic if present. Preheat to 350 degrees. Heat moussaka 12-15 minutes. \r\n\r\nMICROWAVE: Heat moussaka 3-5 minutes (timing varies depending on your microwave).\r\n\r\nToss salad with vinaigrette. Ooopa!!!","prep_instructions":"Set aside salad & vinaigrette","microwave_instructions":"Heat moussaka 3-5 minutes (timing varies depending on your microwave).","oven_instructions":"Preheat to 350 degrees. Heat moussaka 12-15 minutes","stovetop_instructions":"","serving_instructions":"Toss salad with vinaigrette. Ooopa!!!","show_instructions":true,"section":"entree","meal_type":"Complete Meal","dietary_preferences":["Nut-free","Organic"],"is_spicy":false,"qty_remaining":1,"photos":{"menu":"https://images0.munchery.com/menu-items/1846/2013-11-7-3272-edit.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=c89ba95fa4391c1a6880b01959297ff6","menu__retina":"https://images0.munchery.com/menu-items/1846/2013-11-7-3272-edit.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=c4ab25a294be8224988b960a1155ff48","menu_detail":"https://images1.munchery.com/menu-items/1846/2013-11-7-3272-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=8b6498d8aef345f1cb66d50a571f9f41","menu_detail__retina":"https://images1.munchery.com/menu-items/1846/2013-11-7-3272-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=020eb1a476cb760d868f3277c01c16b3","menu_detail_large":"https://images3.munchery.com/menu-items/1846/2013-11-7-3272-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=bafd53cf81bb015c9b50d675f69c0d45","menu_detail_large__retina":"https://images3.munchery.com/menu-items/1846/2013-11-7-3272-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=9329762014924ef509866350728151e0"},"ingredient_list":["Eggplant","Milk (whole)","Tomato sauce","Ground lamb","Ground beef","Egg","Lemon juice","Romaine Lettuce","Red tomatoes","Goat's Cheese (Soft)","Cucumber","Olive Oil","Olives","Yellow onions","Wheat flour","Feta Cheese","Parmesan Cheese","Garlic","Basil","Bread crumbs","Cumin","Kosher Salt","Unsalted butter","Black pepper"],"nutrition_facts":{"servings_per_container":"1.5","calories":490,"calories_from_fat":310,"total_fat":"34g","saturated_fat":"15g","trans_fat":"0.5g","polyunsaturated_fat":"2.5g","monounsaturated_fat":"13g","cholesterol":"205mg","sodium":"950mg","total_carbohydrate":"21g","dietary_fiber":"6g","sugar":"10g","protein":"26g"},"chef":64},{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41987,"name":"Salmon with Salsa Prezzemolo","subtitle":"with white beans and sautéed spinach","description":"Pan roasted salmon with salsa di prezzemolo truffled white bean medley and sautéed seasonal greens. ","position":0,"url":"salmon-with-salsa-prezzemolo","price":{"dollars":"9","cents":"95"},"rating":{"count":30,"avg":4.3},"heating_instruction":"Set aside sauce.\r\n\r\nOVEN: Place tray on baking sheet. Remove any plastic if present. Preheat to 350 degrees. Heat 4-6 minutes, or until heated through. \r\n\r\nMICROWAVE: Heat 2-3 minutes (timing varies depending on your microwave).\r\n\r\nPour sauce over salmon. Enjoy!","prep_instructions":"Set aside sauce.","microwave_instructions":"Heat 2-3 minutes (timing varies depending on your microwave).","oven_instructions":"Preheat to 350 degrees. Heat 4-6 minutes, or until heated through.","stovetop_instructions":"","serving_instructions":"Pour sauce over salmon. Enjoy!","show_instructions":true,"section":"entree","meal_type":"Complete Meal","dietary_preferences":["Dairy-free","Nut-free","Low Carb","Gluten-free"],"is_spicy":false,"qty_remaining":2,"photos":{"menu":"https://images3.munchery.com/menu-items/3378/2014-01-29-6617-edit.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=7faac22cbc2f2fc575a96c7306c67859","menu__retina":"https://images2.munchery.com/menu-items/3378/2014-01-29-6617-edit.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=cc6efb68f9f0c2bbcd91d5f1d8b30f59","menu_detail":"https://images2.munchery.com/menu-items/3378/2014-01-29-6617-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=b667585544a0070f0f60f9cec34adf36","menu_detail__retina":"https://images2.munchery.com/menu-items/3378/2014-01-29-6617-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=85ee21b4b2cf0fd4fff154cba088538e","menu_detail_large":"https://images1.munchery.com/menu-items/3378/2014-01-29-6617-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=62c40e9563146bbb463ade58e9428a51","menu_detail_large__retina":"https://images0.munchery.com/menu-items/3378/2014-01-29-6617-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=4183f63f68b52617228649e101c3fe24"},"ingredient_list":["Farmed Salmon","Spinach","Small white Beans","Lemon juice","Garlic","Cider vinegar","Olive Oil","Parsley","Black pepper","Anchovy in oil","Carrots","Celery","Truffle oil","Yellow onions","Kosher Salt"],"nutrition_facts":{"servings_per_container":"1.5","calories":500,"calories_from_fat":180,"total_fat":"20g","saturated_fat":"4.5g","trans_fat":"0g","polyunsaturated_fat":"6g","monounsaturated_fat":"5g","cholesterol":"75mg","sodium":"920mg","total_carbohydrate":"38g","dietary_fiber":"16g","sugar":"less than 1g","protein":"42g"},"chef":58}]},{"name":"Sides","items":[{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41653,"name":"Garlic and Chile Roasted Broccoli","subtitle":"anchovy aioli, lemon","description":"Italian style side dish of broccoli roasted with toasted garlic, chile flakes and olive oil served with lemon and an anchovy aioli on the side.","position":0,"url":"garlic-and-chile-roasted-broccoli","price":{"dollars":"3","cents":"95"},"rating":{"count":15,"avg":4.7},"heating_instruction":"Set aside lemon wedge and aioli.\r\n\r\nOVEN: Place tray on baking sheet. Remove any plastic if present. Preheat to 350 degrees. Heat 5-8 minutes, or until heated through. \r\n\r\nMICROWAVE: Heat 2-3 minutes (timing varies depending on your microwave).\r\n\r\nServe with lemon and aioli. Enjoy!","prep_instructions":"Set aside lemon wedge and aioli","microwave_instructions":"Heat 2-3 minutes (timing varies depending on your microwave).","oven_instructions":"Preheat to 350 degrees. Heat 5-8 minutes, or until heated through.","stovetop_instructions":"","serving_instructions":"Serve with lemon and aioli. Enjoy!","show_instructions":true,"section":"side","meal_type":"Side","dietary_preferences":["Low Carb","Nut-free","Organic","Gluten-free"],"is_spicy":true,"qty_remaining":8,"photos":{"menu":"https://images0.munchery.com/menu-items/2898/daily-menu-755-edit.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=367f3d6d3350a6bbce47a23e035352e9","menu__retina":"https://images0.munchery.com/menu-items/2898/daily-menu-755-edit.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=b4b5878157b0095a44f786014799a476","menu_detail":"https://images0.munchery.com/menu-items/2898/daily-menu-755-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=0be9a02fc33328819a5a5ea360ac6646","menu_detail__retina":"https://images1.munchery.com/menu-items/2898/daily-menu-755-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=ba4d095c826ee77f16ddfa6fc56ccdc6","menu_detail_large":"https://images1.munchery.com/menu-items/2898/daily-menu-755-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=c05fc3038c0dbb12be51ab5d19fdf445","menu_detail_large__retina":"https://images1.munchery.com/menu-items/2898/daily-menu-755-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=4fd7c3dd887e4f4d222446d1d9fa0450"},"ingredient_list":["Broccoli","Olive Oil","Garlic","Egg yolk","Lemon juice","Raw Anchovy","Sea Salt","Chile pepper flakes"],"nutrition_facts":{"servings_per_container":"1.5","calories":40,"calories_from_fat":0,"total_fat":"0g","saturated_fat":"0g","trans_fat":"0g","polyunsaturated_fat":"0g","monounsaturated_fat":"0g","cholesterol":"0mg","sodium":"230mg","total_carbohydrate":"7g","dietary_fiber":"3g","sugar":"2g","protein":"3g"},"chef":64},{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41689,"name":"Bacon Jalapeno Mac and Cheese","subtitle":"sharp cheddar, cilantro, toasted breadcrumbs","description":"Creamy mac and cheese with sharp cheddar, fresh red and green jalapenos, crispy applewood smoked bacon, and toasted breadcrumbs on top for crunch.","position":0,"url":"bacon-jalapeno-mac-and-cheese","price":{"dollars":"4","cents":"95"},"rating":{"count":35,"avg":4.1},"heating_instruction":"OVEN: Place food in an oven-safe container. Place on ovenproof plate. Preheat to 350 degrees. Heat 3-4 minutes, or until heated through. \r\n\r\nMICROWAVE: Heat 1-2 minutes (timing varies depending on your microwave).\r\n\r\nEnjoy!","prep_instructions":"","microwave_instructions":"Heat 1-2 minutes (timing varies depending on your microwave).","oven_instructions":"Place on ovenproof plate. Preheat to 350 degrees. Heat 3-4 minutes, or until heated through.","stovetop_instructions":"","serving_instructions":"Enjoy!","show_instructions":true,"section":"side","meal_type":"Side","dietary_preferences":["Organic","Nut-free"],"is_spicy":true,"photos":{"menu":"https://images1.munchery.com/menu-items/5264/2014-08-12-26496-edit.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=d50bf767eae8f05386e6aa56ca0cdd5d","menu__retina":"https://images2.munchery.com/menu-items/5264/2014-08-12-26496-edit.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=f0bc058ecc5f3b3b065c1665b0367109","menu_detail":"https://images1.munchery.com/menu-items/5264/2014-08-12-26496-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=96778e9ac253a172805f7c3547efa662","menu_detail__retina":"https://images1.munchery.com/menu-items/5264/2014-08-12-26496-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=f5c9fe906ceb46a5efde6dba68ea5946","menu_detail_large":"https://images3.munchery.com/menu-items/5264/2014-08-12-26496-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=36f736ef4f34e1e66d151a56bffd19c1","menu_detail_large__retina":"https://images2.munchery.com/menu-items/5264/2014-08-12-26496-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=b087a4b857a194806386a879a8ab9947"},"ingredient_list":["Macaroni","Milk (whole)","Jalapeño peppers","Cheddar Cheese","Panko bread crumbs","Bacon","Garlic","Cornstarch","Cilantro","Black pepper","Sea Salt"],"nutrition_facts":{"servings_per_container":"1.0","calories":360,"calories_from_fat":140,"total_fat":"15g","saturated_fat":"7g","trans_fat":"0g","polyunsaturated_fat":"1.0g","monounsaturated_fat":"5g","cholesterol":"40mg","sodium":"560mg","total_carbohydrate":"39g","dietary_fiber":"3g","sugar":"4g","protein":"17g"},"chef":52},{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41695,"name":"Saffron Cauliflower Salad","subtitle":"spinach, golden raisins, green olive","description":"Cauliflower roasted with red onion, golden raisins, green olives, and saffron. Paired with cherry tomatoes, baby spinach, and citrus vinaigrette. A vibrant salad with classic Spanish flavors. Enjoy!","position":0,"url":"saffron-cauliflower-salad","price":{"dollars":"5","cents":"95"},"rating":{"count":6,"avg":4.5},"heating_instruction":"Pour dressed cauliflower salad over spinach and mix. Enjoy!","prep_instructions":"","microwave_instructions":"","oven_instructions":"","stovetop_instructions":"","serving_instructions":"Pour dressed cauliflower salad over spinach and mix. Enjoy!","show_instructions":true,"section":"side","meal_type":"Side","dietary_preferences":["Organic","Vegetarian","Low Carb","Gluten-free","Dairy-free","Nut-free"],"is_spicy":false,"photos":{"menu":"https://images1.munchery.com/menu-items/5775/2014-09-22-29587-edit.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=7588bd5f6e9dd46f5534607faa6f5553","menu__retina":"https://images3.munchery.com/menu-items/5775/2014-09-22-29587-edit.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=c93eae433b80e9d14f52a75e942b9fc7","menu_detail":"https://images2.munchery.com/menu-items/5775/2014-09-22-29587-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=b91966f8c37043dac69fda6ea8904e58","menu_detail__retina":"https://images1.munchery.com/menu-items/5775/2014-09-22-29587-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=b9d681857995ff086e433df56b5ccde1","menu_detail_large":"https://images3.munchery.com/menu-items/5775/2014-09-22-29587-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=72ea525f05df25e4b42744fa214a0602","menu_detail_large__retina":"https://images1.munchery.com/menu-items/5775/2014-09-22-29587-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=da72f6fc3bbc0d105bd49820cc082c4c"},"ingredient_list":["Cauliflower","Spinach","Onions","Red tomatoes","Canola oil","Red wine vinegar","Oranges","Olives","Golden raisins","Dijon mustard","Honey","Orange peel","Kosher Salt","Black pepper"],"nutrition_facts":{"servings_per_container":"1.0","calories":130,"calories_from_fat":60,"total_fat":"6g","saturated_fat":"0.5g","trans_fat":"0g","polyunsaturated_fat":"2.0g","monounsaturated_fat":"3.0g","cholesterol":"0mg","sodium":"290mg","total_carbohydrate":"15g","dietary_fiber":"6g","sugar":"7g","protein":"6g"},"chef":116},{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41740,"name":"Rosemary and Sea Salt Focaccia","subtitle":"roasted garlic herb butter","description":"Freshly baked focaccia topped with rosemary, sea salt and olive oil. Served with a roasted garlic and fresh herb whipped butter.","position":0,"url":"rosemary-and-sea-salt-focaccia","price":{"dollars":"3","cents":"95"},"rating":{"count":182,"avg":4.5},"heating_instruction":"Either warm bread in toaster oven or serve at room temp.\r\n\r\nStore bread at room temp. Enjoy!","prep_instructions":"Either warm bread in toaster oven or serve at room temp.","microwave_instructions":"","oven_instructions":"","stovetop_instructions":"","serving_instructions":"Store bread at room temp. Enjoy!","show_instructions":true,"section":"side","meal_type":"Side","dietary_preferences":["Nut-free","Organic","Vegetarian"],"is_spicy":false,"qty_remaining":4,"photos":{"menu":"https://images0.munchery.com/menu-items/1916/img-7164-edit.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=a28f5d9a549d5e12bf1b7fce53908e29","menu__retina":"https://images2.munchery.com/menu-items/1916/img-7164-edit.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=7728257a6db3f945b6e6b4115fef38fe","menu_detail":"https://images0.munchery.com/menu-items/1916/img-7164-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=d99a9e762214d7b6be68c73051b16366","menu_detail__retina":"https://images1.munchery.com/menu-items/1916/img-7164-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=a3fd8449395e8c7e363279d5dcc95228","menu_detail_large":"https://images3.munchery.com/menu-items/1916/img-7164-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=f1a150b191ba3d2fcd2d4b370e331600","menu_detail_large__retina":"https://images3.munchery.com/menu-items/1916/img-7164-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=60fca4dca5394bc27f5190547c024281"},"ingredient_list":["Flour","Whipped butter","Mashed Potatoes","Olive Oil","Bakers Yeast","Sea Salt","Garlic","Basil","Parsley","Thyme","Rosemary"],"nutrition_facts":{"servings_per_container":"1.0","calories":140,"calories_from_fat":30,"total_fat":"3.5g","saturated_fat":"0.5g","trans_fat":"0g","polyunsaturated_fat":"0g","monounsaturated_fat":"2.0g","cholesterol":"0mg","sodium":"590mg","total_carbohydrate":"22g","dietary_fiber":"1g","sugar":"0g","protein":"4g"},"chef":64},{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41752,"name":"Smoked Salmon with Potato Latkes","subtitle":"smoked salmon, pickled onions, dill, crème fraîche","description":"Perhaps a little different then a traditional latke, the flavors pop well together. Between the smoky flavor of the salmon, tanginess of the pickled onions, and refreshing hint of the crème fraîche and dill, they might make you re-think the way you look at latkes!","position":0,"url":"smoked-salmon-with-potato-latkes","price":{"dollars":"7","cents":"95"},"rating":{"count":11,"avg":4.1},"heating_instruction":"Set aside, crème fraîche, and pickled onions.\r\n\r\nOVEN: Place tray on baking sheet. Remove any plastic if present. Preheat your oven to 375 degrees. Heat the latkes for 4-5 min. \r\n\r\nMICROWAVE: Heat the latkes 1-2 min.\r\n\r\nWhen warm, top with the salmon, crème fraîche, and pickled onions.","prep_instructions":"Set aside, crème fraîche, and pickled onions.","microwave_instructions":"Heat the latkes 1-2 min.","oven_instructions":"Preheat your oven to 375 degrees. Heat the latkes for 4-5 min.","stovetop_instructions":"","serving_instructions":"When warm, top with the salmon, crème fraîche, and pickled onions.","show_instructions":true,"section":"side","meal_type":"Appetizer","dietary_preferences":["Nut-free"],"is_spicy":false,"qty_remaining":4,"photos":{"menu":"https://images2.munchery.com/menu-items/2858/img-2534-edit.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=b66efdab45e76023723fc796e0015ccf","menu__retina":"https://images3.munchery.com/menu-items/2858/img-2534-edit.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=a82dec955996830eac625990c9cc2f72","menu_detail":"https://images1.munchery.com/menu-items/2858/img-2534-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=3160c50a3d5c03534ad7b9e2ead58d59","menu_detail__retina":"https://images3.munchery.com/menu-items/2858/img-2534-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=ef4fd2f1da9ef1485896cd2d01736a93","menu_detail_large":"https://images2.munchery.com/menu-items/2858/img-2534-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=4493283af48d9c8f66d07a63bc2420e0","menu_detail_large__retina":"https://images0.munchery.com/menu-items/2858/img-2534-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=7bea746a4c13495da42b0b58027cca32"},"ingredient_list":["White potatoes","Smoked Chinook Salmon","Arugula","Black pepper","All-Purpose Flour","Dill","Yellow onions","Egg","Kosher Salt"],"nutrition_facts":{"servings_per_container":"1.5","calories":240,"calories_from_fat":35,"total_fat":"4.0g","saturated_fat":"1.0g","trans_fat":"0g","polyunsaturated_fat":"1.0g","monounsaturated_fat":"1.5g","cholesterol":"25mg","sodium":"1270mg","total_carbohydrate":"37g","dietary_fiber":"8g","sugar":"2g","protein":"16g"},"chef":92},{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41761,"name":"Cumin Scented Green Lentil Soup","subtitle":"with red onion, parsley and lemon omani relish","description":"Hearty and flavorful soup with diced carrots and celery. The relish, with the delightful Lemon Omani, is packed with the soup and is there to brighten it up. \r\nIf you wish to make the soup into a meal, we recommend you serve it up with some Greek yogurt or crusty bread. Enjoy!","position":0,"url":"cumin-scented-green-lentil-soup","price":{"dollars":"4","cents":"95"},"rating":{"count":1,"avg":3.0},"heating_instruction":"STOVE TOP: Pour soup in a saucepan and bring to a simmer over medium heat.\r\n\r\nMICROWAVE: Heat 1-2 minutes (timing varies depending on your microwave).\r\n\r\nEnjoy!","prep_instructions":"","microwave_instructions":"Heat 1-2 minutes (timing varies depending on your microwave).","oven_instructions":"","stovetop_instructions":"Pour soup in a saucepan and bring to a simmer over medium heat.","serving_instructions":"Enjoy!","show_instructions":true,"section":"side","meal_type":"Side","dietary_preferences":["Organic","Vegetarian","Vegan","Low Carb","Gluten-free","Dairy-free","Nut-free"],"is_spicy":false,"photos":{"menu":"https://images2.munchery.com/menu-items/6190/2014-10-24-31460-edit-1.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=bbfe52a5f8f56f8853aa1c087371efcd","menu__retina":"https://images2.munchery.com/menu-items/6190/2014-10-24-31460-edit-1.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=67d3c9e9718e55b33deac4576b5252d9","menu_detail":"https://images3.munchery.com/menu-items/6190/2014-10-24-31460-edit-1.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=287897d76a6605fa44390d02b1495527","menu_detail__retina":"https://images0.munchery.com/menu-items/6190/2014-10-24-31460-edit-1.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=96b8d2532f7174572af067d0b356226f","menu_detail_large":"https://images0.munchery.com/menu-items/6190/2014-10-24-31460-edit-1.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=be99b5f76527770490b6f772b66b3165","menu_detail_large__retina":"https://images0.munchery.com/menu-items/6190/2014-10-24-31460-edit-1.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=2c7d6c8efec38a8b57bbca877075cc32"},"ingredient_list":["Lentils","Carrots","Celery","Red Onion","Olive Oil","Parsley","Bay leaf","Black pepper","Canola Oil","Cumin","Lemon peel","Kosher Salt"],"nutrition_facts":{"servings_per_container":"1.0","calories":220,"calories_from_fat":70,"total_fat":"8g","saturated_fat":"1.0g","trans_fat":"0g","polyunsaturated_fat":"1.5g","monounsaturated_fat":"5g","cholesterol":"0mg","sodium":"230mg","total_carbohydrate":"34g","dietary_fiber":"2g","sugar":"4g","protein":"12g"},"chef":116}]},{"name":"Kids","items":[{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41728,"name":"Kid's Turkey Tetrazzini","subtitle":"steamed broccoli and cauliflower","description":"This baked pasta casserole was invented at The Palace Hotel right here in S.F. Back in 1908 specifically for the opera star Luisa Tetrazzini who lived in the hotel, so there's a history lesson with dinner! \r\nDiestel Turkey is roasted, diced and cooked with a creamy turkey gravy with carrots, celery, leeks, and spaghetti. Topped with parmesan bread crumbs and baked. Served with some steamed organic broccoli and cauliflower.","position":0,"url":"kids-turkey-tetrazzini","price":{"dollars":"6","cents":"95"},"rating":{"count":3,"avg":2.7},"heating_instruction":"OVEN: Place tray on baking sheet. Remove any plastic. Preheat to 375 degrees. Heat 8-10 minutes, or until heated through. \r\n\r\nMICROWAVE: Heat 2-3 minutes (timing varies depending on your microwave).\r\n\r\nEnjoy!","prep_instructions":"","microwave_instructions":"Heat 2-3 minutes (timing varies depending on your microwave).","oven_instructions":"Preheat to 375 degrees. Heat 8-10 minutes, or until heated through.","stovetop_instructions":"","serving_instructions":"Enjoy!","show_instructions":true,"section":"kids_meal","meal_type":"Kids' Meal","dietary_preferences":["Organic","Nut-free"],"is_spicy":false,"photos":{"menu":"https://images3.munchery.com/menu-items/3940/2014-05-01-15729-edit.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=0ae8386050bf898609d0f9411d48eaed","menu__retina":"https://images1.munchery.com/menu-items/3940/2014-05-01-15729-edit.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=527e613b47155dcf90b7f93c6313f9e6","menu_detail":"https://images1.munchery.com/menu-items/3940/2014-05-01-15729-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=ca5ce958ef70d2e9d3b0fcae222a9fab","menu_detail__retina":"https://images2.munchery.com/menu-items/3940/2014-05-01-15729-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=5d0fc8aa9332078a0d9e010281d466b4","menu_detail_large":"https://images1.munchery.com/menu-items/3940/2014-05-01-15729-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=4049750df986041268008a8150b5443c","menu_detail_large__retina":"https://images0.munchery.com/menu-items/3940/2014-05-01-15729-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=ec86e0e06e98403b7c1409ddde2b71d6"},"ingredient_list":["Broccoli","Turkey","Chicken stock","Spaghetti","Cauliflower","Milk (whole)","Carrots","Onions","Celery","Unsalted butter","Bread crumbs","Parmesan Cheese","Wheat flour","Sea Salt"],"nutrition_facts":{"servings_per_container":"1.0","calories":490,"calories_from_fat":160,"total_fat":"17g","saturated_fat":"7g","trans_fat":"0g","polyunsaturated_fat":"3.5g","monounsaturated_fat":"5g","cholesterol":"95mg","sodium":"600mg","total_carbohydrate":"49g","dietary_fiber":"12g","sugar":"8g","protein":"38g"},"chef":64},{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41755,"name":"Fresh Fruit Salad","subtitle":"chef's selection of mixed seasonal fresh fruit","description":"A selection of fresh fruit chosen weekly. This week features:, blackberries, blueberries, pineapple, red grapes and raspberries. Great for kids!","position":0,"url":"fresh-fruit-salad","price":{"dollars":"3","cents":"50"},"rating":{"count":16,"avg":4.1},"heating_instruction":"No reheating needed. Enjoy chilled!","prep_instructions":"","microwave_instructions":"","oven_instructions":"","stovetop_instructions":"","serving_instructions":"No reheating needed. Enjoy chilled!","show_instructions":true,"section":"kids_meal","meal_type":"Kids' Meal","dietary_preferences":["Low Carb","Nut-free","Organic","Vegan","Gluten-free","Vegetarian","Dairy-free","Paleo"],"is_spicy":false,"photos":{"menu":"https://images3.munchery.com/menu-items/3011/img-6776-edit.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=f7b2e2d2d65e8590e2711933d4b90b2c","menu__retina":"https://images0.munchery.com/menu-items/3011/img-6776-edit.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=ad8a156c1640a3088782218ddc4e50f8","menu_detail":"https://images3.munchery.com/menu-items/3011/img-6776-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=1e991a76ba22d0d9c51754ab47b8fb8a","menu_detail__retina":"https://images3.munchery.com/menu-items/3011/img-6776-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=f289e6641b552a2061d74952ef4e026a","menu_detail_large":"https://images2.munchery.com/menu-items/3011/img-6776-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=c8d4140f32d40914030b2dcf7fb6fb9d","menu_detail_large__retina":"https://images1.munchery.com/menu-items/3011/img-6776-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=3cd48b1864dd6935b07be6ed09458c56"},"ingredient_list":["Blackberries","Blueberries","Grapes","Pineapple","Raspberries"],"nutrition_facts":{"servings_per_container":"1.0","calories":100,"calories_from_fat":5,"total_fat":"0.5g","saturated_fat":"0g","trans_fat":"0g","polyunsaturated_fat":"0g","monounsaturated_fat":"0g","cholesterol":"0mg","sodium":"0mg","total_carbohydrate":"25g","dietary_fiber":"6g","sugar":"17g","protein":"2g"},"chef":60}]},{"name":"Desserts","items":[{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41889,"name":"Ginger-Lemon Cranberry Pie","subtitle":"bright citrus custard in a flakey all-butter crust","description":"Cold pressed ginger juice, lemon and fresh cranberries come together in this unexpected seasonal pie. ","position":0,"url":"ginger-lemon-cranberry-pie","price":{"dollars":"4","cents":"50"},"rating":{"count":23,"avg":4.3},"heating_instruction":"Serve chilled and enjoy!","prep_instructions":"Serve chilled and enjoy!","microwave_instructions":"","oven_instructions":"","stovetop_instructions":"","serving_instructions":"","show_instructions":true,"section":"dessert","meal_type":"Dessert","dietary_preferences":["Vegetarian","Nut-free"],"is_spicy":false,"photos":{"menu":"https://images0.munchery.com/menu-items/5923/2014-10-06-30380-edit.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=e212572b827192b5c94b8ebb061bb0c1","menu__retina":"https://images2.munchery.com/menu-items/5923/2014-10-06-30380-edit.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=076ac129e2109185f1714793128c5729","menu_detail":"https://images3.munchery.com/menu-items/5923/2014-10-06-30380-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=a12d878778c2e3d36eb22fa4d773d96b","menu_detail__retina":"https://images2.munchery.com/menu-items/5923/2014-10-06-30380-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=be3567f44e8abd4764d5a92b7dcef92b","menu_detail_large":"https://images3.munchery.com/menu-items/5923/2014-10-06-30380-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=2139c394f15bad6c070a9c1b64821501","menu_detail_large__retina":"https://images2.munchery.com/menu-items/5923/2014-10-06-30380-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=57ddb078d97535f5ac54f5eddda793c1"},"ingredient_list":["Condensed Milk","All-Purpose Flour","Cranberries","Lemon juice","Salted butter","Egg yolk","Ginger root","Pure Cane Sugar"],"nutrition_facts":{"servings_per_container":"1.0","calories":190,"calories_from_fat":80,"total_fat":"9g","saturated_fat":"5g","trans_fat":"0g","polyunsaturated_fat":"0g","monounsaturated_fat":"2.5g","cholesterol":"65mg","sodium":"80mg","total_carbohydrate":"24g","dietary_fiber":"less than 1g","sugar":"14g","protein":"4g"},"chef":112},{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41902,"name":"Chocolate Cream & Pretzel Pie","subtitle":"hand crafted by Pietisserie, Oakland California","description":"Scratch-made bittersweet chocolate cream in an all-butter pastry crust. Pssst...there's toasty buttery pretzel crumb inside.","position":0,"url":"chocolate-cream-and-pretzel-pie","price":{"dollars":"4","cents":"50"},"rating":{"count":21,"avg":4.6},"heating_instruction":"Enjoy chilled!","prep_instructions":"","microwave_instructions":"","oven_instructions":"","stovetop_instructions":"","serving_instructions":"Enjoy chilled!","show_instructions":true,"section":"dessert","meal_type":"Dessert","dietary_preferences":[],"is_spicy":false,"photos":{"menu":"https://images3.munchery.com/menu-items/5765/2014-09-17-29301-edit.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=c649921750006973bfec15b32ee1b3e5","menu__retina":"https://images0.munchery.com/menu-items/5765/2014-09-17-29301-edit.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=de8142980e1bf96b29c924796e0c8ef0","menu_detail":"https://images1.munchery.com/menu-items/5765/2014-09-17-29301-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=733b554fe53de67a1798cee8b299806a","menu_detail__retina":"https://images2.munchery.com/menu-items/5765/2014-09-17-29301-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=0531c67f2b9bee1010116f3ffed55d90","menu_detail_large":"https://images2.munchery.com/menu-items/5765/2014-09-17-29301-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=b0b4c42b477a4206162f05b38847337f","menu_detail_large__retina":"https://images3.munchery.com/menu-items/5765/2014-09-17-29301-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=ab63e78cfb69f418a308b93c91a307a6"},"ingredient_list":["Milk (whole)","Whole Wheat Pretzels","Bittersweet chocolate","Pure Cane Sugar","Egg yolk","Cornstarch","Unsalted butter","Kosher Salt","Vanilla extract"],"nutrition_facts":{"servings_per_container":"1.0","calories":210,"calories_from_fat":50,"total_fat":"5g","saturated_fat":"2.5g","trans_fat":"0g","polyunsaturated_fat":"0.5g","monounsaturated_fat":"1.5g","cholesterol":"55mg","sodium":"370mg","total_carbohydrate":"38g","dietary_fiber":"2g","sugar":"13g","protein":"6g"},"chef":112}]},{"name":"Drinks","items":[{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41360,"name":"Tesora Blend","subtitle":"a medium roast blend of coffee","description":"Seven years in the making and the first blend to ever be created, the Tesora is a treasure that consists of the most valuable and complex jewels of coffee. Tesora, a grand representation of our coffee and the way coffee should taste! \r\n\r\nEach bag consists of 12oz of whole coffee beans.","position":0,"url":"tesora-blend","price":{"dollars":"10","cents":"95"},"rating":{"count":2,"avg":3.0},"heating_instruction":"Brew coffee using your preferred method.\r\n\r\nEnjoy!","prep_instructions":"Brew coffee using your preferred method.","microwave_instructions":"","oven_instructions":"","stovetop_instructions":"","serving_instructions":"Enjoy!","show_instructions":true,"section":"beverage","meal_type":"Beverage","dietary_preferences":["Gluten-free","Vegetarian","Vegan","Dairy-free","Nut-free"],"is_spicy":false,"qty_remaining":8,"photos":{"menu":"https://images1.munchery.com/menu-items/2946/2013-10-23-2058-edit-2.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=a0aa57c81b1ca474a2c6994ffb2a262b","menu__retina":"https://images0.munchery.com/menu-items/2946/2013-10-23-2058-edit-2.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=99b8c21bb5d97ec66ff5647057b1d99e","menu_detail":"https://images1.munchery.com/menu-items/2946/2013-10-23-2058-edit-2.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=3907ca2e5fed285723957b82acdf5e48","menu_detail__retina":"https://images0.munchery.com/menu-items/2946/2013-10-23-2058-edit-2.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=5006a4cbe559e82edba4b553ac4b5d1c","menu_detail_large":"https://images3.munchery.com/menu-items/2946/2013-10-23-2058-edit-2.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=52f39635d3aa98646eb7d7394c88c9f8","menu_detail_large__retina":"https://images2.munchery.com/menu-items/2946/2013-10-23-2058-edit-2.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=92ad46757a3cbfdd23c0f083f1f45dd0"},"ingredient_list":[],"chef":95},{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41369,"name":"Jacob's Wonderbar","subtitle":"a dark roast blend","description":"Named in honor of Phil’z only son Jacob. Each memorable sip boasts delicious layers of nuts and chocolate filled with a full-bodied flavor and finished without any acidity or bitterness. Jacob’s Wonderbar brew is a dark roast favorite! Each bag consists of 12oz of whole coffee beans.","position":0,"url":"jacobs-wonderbar","price":{"dollars":"10","cents":"95"},"rating":{"count":3,"avg":4.0},"heating_instruction":"Brew coffee using your preferred method.\r\n\r\nEnjoy!","prep_instructions":"Brew coffee using your preferred method.","microwave_instructions":"","oven_instructions":"","stovetop_instructions":"","serving_instructions":"Enjoy!","show_instructions":true,"section":"beverage","meal_type":"Beverage","dietary_preferences":["Gluten-free","Vegetarian","Vegan","Dairy-free","Nut-free"],"is_spicy":false,"qty_remaining":7,"photos":{"menu":"https://images1.munchery.com/menu-items/2947/2013-10-25-2544-edit-2.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=23537de8c5508059430fc0962c47b3a3","menu__retina":"https://images0.munchery.com/menu-items/2947/2013-10-25-2544-edit-2.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=610f7b3aa0e16943426d2e6b82b78fd3","menu_detail":"https://images2.munchery.com/menu-items/2947/2013-10-25-2544-edit-2.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=0d49a1bce6e545c3144dabe516a3617a","menu_detail__retina":"https://images3.munchery.com/menu-items/2947/2013-10-25-2544-edit-2.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=8ecf327d64a35218a497bdb0ec7637b0","menu_detail_large":"https://images2.munchery.com/menu-items/2947/2013-10-25-2544-edit-2.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=86673fe6507d1c1e764dfeb132c21884","menu_detail_large__retina":"https://images3.munchery.com/menu-items/2947/2013-10-25-2544-edit-2.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=9fac336cc48f81cfec67647862ffcec3"},"ingredient_list":[],"chef":95},{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41647,"name":"Vietnamese Style Iced Coffee","subtitle":"prepared by Coffee Bar, San Francisco California","description":"Our well known Gusto iced coffee gets a healthy splash of sweetened condensed milk in this Vietnamese style treat.\r\nLarge enough to share!","position":0,"url":"vietnamese-style-iced-coffee","price":{"dollars":"7","cents":"50"},"rating":{"count":6,"avg":3.5},"heating_instruction":"Keep chilled.\r\n\r\nShake well and enjoy!","prep_instructions":"Keep chilled.","microwave_instructions":"","oven_instructions":"","stovetop_instructions":"","serving_instructions":"Shake well and enjoy!","show_instructions":true,"section":"beverage","meal_type":"Beverage","dietary_preferences":["Vegetarian","Gluten-free"],"is_spicy":false,"qty_remaining":5,"photos":{"menu":"https://images3.munchery.com/menu-items/4719/2014-07-09-23679-edit.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=e1543b2127fb69c3b58502bfde6f06f3","menu__retina":"https://images2.munchery.com/menu-items/4719/2014-07-09-23679-edit.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=0bd6ae7bdbd68e9fe2265a2644cbcfa0","menu_detail":"https://images1.munchery.com/menu-items/4719/2014-07-09-23679-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=218975b0cc1017f6210a4835301688b4","menu_detail__retina":"https://images3.munchery.com/menu-items/4719/2014-07-09-23679-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=94551f137a1125b2a3b59c91480f898d","menu_detail_large":"https://images2.munchery.com/menu-items/4719/2014-07-09-23679-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=96324c7bd4176ab02f128d4f0c05be99","menu_detail_large__retina":"https://images3.munchery.com/menu-items/4719/2014-07-09-23679-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=38cb387bc3187e66891d7bb178f074d0"},"ingredient_list":["Water","Condensed Milk","Espresso beans"],"chef":96},{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41936,"name":"Deschutes Brewing Armory XPA","subtitle":"brewed in Bend, Oregon","description":"This experimental pale ale was the first beer brewed at the Portland Pub. This XPA gets its bitter twist from Nugget and Northern Brewer hops, then delivers a pronounced citrus kick from Cascade, Centennial and Citra hops. Consider this your next hop obsession.\r\n\r\nAlc. 5.9% | IBUs 58\r\n192 Calories, 22 oz serving\r\n\r\n**A 21+ year old adult must be present to receive the delivery at the scheduled time and address and provide picture ID as proof of age** \r\n\r\nItems are sold by Cellar Searchers INC which is the seller of record - all taxes and shipping fees are collected on it's behalf. Price includes taxes.","position":0,"url":"deschutes-brewing-armory-xpa","price":{"dollars":"7","cents":"50"},"rating":{"count":1,"avg":4.0},"heating_instruction":"Enjoy!","prep_instructions":"","microwave_instructions":"","oven_instructions":"","stovetop_instructions":"","serving_instructions":"Enjoy!","show_instructions":true,"section":"beverage","meal_type":"Beverage","dietary_preferences":[],"is_spicy":false,"qty_remaining":8,"photos":{"menu":"https://images2.munchery.com/menu-items/4136/2014-05-29-18299-edit.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=dcea096a0c5795cbc81f6598fb0c0e70","menu__retina":"https://images0.munchery.com/menu-items/4136/2014-05-29-18299-edit.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=94ebf6781aae72b611b3f735e93eed6b","menu_detail":"https://images2.munchery.com/menu-items/4136/2014-05-29-18299-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=5d048f0806b72c51f6006c8aab3eae52","menu_detail__retina":"https://images3.munchery.com/menu-items/4136/2014-05-29-18299-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=80f041f3f7109f8047f097d338ae0022","menu_detail_large":"https://images0.munchery.com/menu-items/4136/2014-05-29-18299-edit.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=d3fcabaa568fe9702e5841a678852db5","menu_detail_large__retina":"https://images1.munchery.com/menu-items/4136/2014-05-29-18299-edit.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=8dae216c74e1345a5d1c9955f7069f29"},"ingredient_list":["Beer"],"chef":93},{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":42117,"name":"Danzante Pinot Grigio","subtitle":"2013","description":"Danzante Pinot Grigio is a dry, white wine with golden reflections.  The bouquet is intense with enticing fragrances of fresh citrus fruit and flowers.  On the palate, its silky, well balanced body is enhanced with hints of pineapple, grapefruit and spices that carry through to a crisp, dry finish.  Perfect wine for seafood, chicken or pasta.\r\n\r\n**A 21+ year old adult must be present to receive the delivery at the scheduled time and address and provide picture ID as proof of age** \r\n\r\nItems are sold by Cellar Searchers INC which is the seller of record - all taxes and shipping fees are collected on its behalf. Price includes taxes. ","position":0,"url":"danzante-pinot-grigio","price":{"dollars":"10","cents":"95"},"rating":{"count":1,"avg":5.0},"heating_instruction":"Enjoy chilled!","prep_instructions":"","microwave_instructions":"","oven_instructions":"","stovetop_instructions":"","serving_instructions":"Enjoy chilled!","show_instructions":true,"section":"beverage","meal_type":"Beverage","dietary_preferences":[],"is_spicy":false,"qty_remaining":9,"photos":{"menu":"https://images0.munchery.com/menu-items/6264/2014-10-28-31643-edit-1.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=c3ff2ad0d36d09c3d51bf892a6f3ba37","menu__retina":"https://images3.munchery.com/menu-items/6264/2014-10-28-31643-edit-1.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=8331c203a8370e36b3553d20aeaa1ebf","menu_detail":"https://images1.munchery.com/menu-items/6264/2014-10-28-31643-edit-1.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=bf44b4f724d3d1c81f693ba333485413","menu_detail__retina":"https://images1.munchery.com/menu-items/6264/2014-10-28-31643-edit-1.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=83ccb461f73c204666ede270a59ad69e","menu_detail_large":"https://images3.munchery.com/menu-items/6264/2014-10-28-31643-edit-1.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=999d31b00494dd1f9d3d5c5be7fdf06e","menu_detail_large__retina":"https://images3.munchery.com/menu-items/6264/2014-10-28-31643-edit-1.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=b8b0b32aaae0348082062261b9e0687f"},"ingredient_list":["White Wine"],"nutrition_facts":{"servings_per_container":"1.0","calories":540,"calories_from_fat":0,"total_fat":"0g","saturated_fat":"0g","trans_fat":"0g","polyunsaturated_fat":"0g","monounsaturated_fat":"0g","cholesterol":"0mg","sodium":"35mg","total_carbohydrate":"17g","dietary_fiber":"0g","sugar":"6g","protein":"0g"},"chef":93},{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":42126,"name":"Frescobaldi Remole","subtitle":"2013 cabernet and sangiovese blend","description":"Vila di Remole, in the heart of Tuscany, is the cradle of 700 years of history and tradition of the Frescobaldi family.  Remole is an intense wine, soft and fruity, that will captivate and delight you.  Particularly suited for full flavored appetizers, charcuterie and red meat.\r\n\r\n**A 21+ year old adult must be present to receive the delivery at the scheduled time and address and provide picture ID as proof of age** \r\n\r\nItems are sold by Cellar Searchers INC which is the seller of record - all taxes and shipping fees are collected on its behalf. Price includes taxes. ","position":0,"url":"frescobaldi-remole","price":{"dollars":"10","cents":"95"},"rating":{"count":0,"avg":0.0},"heating_instruction":"Enjoy at room temperature!","prep_instructions":"","microwave_instructions":"","oven_instructions":"","stovetop_instructions":"","serving_instructions":"Enjoy at room temperature!","show_instructions":true,"section":"beverage","meal_type":"Beverage","dietary_preferences":[],"is_spicy":false,"qty_remaining":6,"photos":{"menu":"https://images2.munchery.com/menu-items/6262/2014-10-28-31635-edit-1.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=5c1300b55350f72bf900219ea1bbccd8","menu__retina":"https://images0.munchery.com/menu-items/6262/2014-10-28-31635-edit-1.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=7e1b5c269b4ca8b505cb08f4c3eec3dc","menu_detail":"https://images0.munchery.com/menu-items/6262/2014-10-28-31635-edit-1.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=d9dd4b4cc35670c8a3ac54fa8bf18004","menu_detail__retina":"https://images1.munchery.com/menu-items/6262/2014-10-28-31635-edit-1.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=63fa5720fac83a3b8f8627ef8457396d","menu_detail_large":"https://images3.munchery.com/menu-items/6262/2014-10-28-31635-edit-1.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=6d2daa1f2034aac97c02c8def3441de7","menu_detail_large__retina":"https://images0.munchery.com/menu-items/6262/2014-10-28-31635-edit-1.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=30283da904733cef13503761d0c84932"},"ingredient_list":["Red Wine"],"nutrition_facts":{"servings_per_container":"1.0","calories":560,"calories_from_fat":0,"total_fat":"0g","saturated_fat":"0g","trans_fat":"0g","polyunsaturated_fat":"0g","monounsaturated_fat":"0g","cholesterol":"0mg","sodium":"25mg","total_carbohydrate":"17g","dietary_fiber":"0g","sugar":"4g","protein":"0g"},"chef":93}]},{"name":"Extras","items":[{"available_on":"2014-11-07","fulfillment_center":"SF-MISSION","id":41498,"name":"Munchery Insulated Tote Bag","subtitle":"special add-ons","description":"The search for the perfect on-the-go bag is over. Our award-winning design team created this insulated canvas bag to ensure your food and drinks stay fresh and protected as they travel. It's roomy enough for a feast and—with its embroidered logo and tomato-red zipper—handsome enough to hold its own no matter where you're headed.","position":0,"url":"munchery-insulated-tote-bag","price":{"dollars":"14","cents":"95"},"rating":{"count":1,"avg":5.0},"heating_instruction":"This reusable insulated tote is perfect for keeping your Munchery orders chilled.","prep_instructions":"This reusable insulated tote is perfect for keeping your Munchery orders chilled.","microwave_instructions":"","oven_instructions":"","stovetop_instructions":"","serving_instructions":"","show_instructions":false,"section":"extras","meal_type":"Side","dietary_preferences":[],"is_spicy":false,"qty_remaining":6,"photos":{"menu":"https://images1.munchery.com/menu-items/6188/2014-10-14-30671-edit-3-1.jpg?dpr=1.2&q=85&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=5ef03c728abd51115e11090ef29aeaae","menu__retina":"https://images3.munchery.com/menu-items/6188/2014-10-14-30671-edit-3-1.jpg?dpr=2.0&q=70&sharp=3&vib=10&gam=-10&w=370&h=245&fit=crop&s=b5e1feb7d92197e087796c7bc9849ba8","menu_detail":"https://images1.munchery.com/menu-items/6188/2014-10-14-30671-edit-3-1.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=70aa07179ded78dd11937156799fc1ff","menu_detail__retina":"https://images1.munchery.com/menu-items/6188/2014-10-14-30671-edit-3-1.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=770&h=510&fit=crop&s=efadb63dfe2abe72bec1fbd8a4f52487","menu_detail_large":"https://images3.munchery.com/menu-items/6188/2014-10-14-30671-edit-3-1.jpg?dpr=1.1&q=85&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=797eeb7ced52cc0d74cc8e1018b5ff78","menu_detail_large__retina":"https://images3.munchery.com/menu-items/6188/2014-10-14-30671-edit-3-1.jpg?dpr=2.0&q=70&sharp=0&vib=10&gam=-10&w=1200&h=800&fit=crop&s=749f16974b1951539dd0a16f874975fa"},"chef":59}]}],"chefs":{"95":{"name":"Philz Coffee","bio":"Customized blends of coffee","full_bio":"It all started in 2003, from the humble and passionate roots of Phil Jaber. As he would tell you, Frank Sinatra was born to sing, and Phil Jaber was born to make coffee.\r\n\r\nThe rest goes like this: About 25 years ago Phil first began experimenting with different beans from around the world with the goal in mind of making really great tasting blends. Phil wanted each blend to be flavorful, complex, rich, smooth and low in acidity. After about 25 years of experimentation and testing, Phil has created more than 30 unique blends that achieve all of this. After perfecting his blends, Phil wanted to make sure each cup was made in a way that brought out all the flavors of the coffee. He wanted a brewing method that would involve his other passion, people and community. Phil believes coffee is personal and social, and he wanted to make sure the coffee making process embodied this and made each cup taste really great. After a long time of testing and research, Phil decided to craft his own coffee station, which would allow him to make each cup individually. This method is similar to a pour-over process but with a twist. From then on, each cup was made one cup at a time, allowing for specificity and diversity in taste for the individual person and brew. \r\n\r\nPhil had a corner grocery store, and this store is where he did lots of his experimentation. After perfecting his blends and coffee brewing method, he decided the corner grocery store on 24th and Folsom Street in San Francisco would be the perfect place to start serving the coffee. And the rest is history! Today, we have multiple locations and are known as one of the best coffee shops in the U.S.!\r\n\r\n","bio_quote":"We believe happy people are contagious, and the more happy people in the world the happier the world is. While we may not be able to make the world happy at once, we are determined to do it one community, one cup at a time.","url":"philz-coffee","rating":{"count":5,"avg":3.6},"photos":{"menu":"https://images2.munchery.com/avatars/865/philz-coffee.jpg?crop=faces&sat=-100&q=90&w=55&h=55&fit=crop&s=a079d0dd7a58ea709802ce187fcb8690","menu__retina":"https://images1.munchery.com/avatars/865/philz-coffee.jpg?dpr=2.0&crop=faces&sat=-100&w=55&h=55&fit=crop&s=a3915a6dca1aa72746869e5b08fb278c","menu_detail":"https://images3.munchery.com/avatars/865/philz-coffee.jpg?dpr=1.1&crop=faces&shad=30&gam=20&sat=-100&q=85&w=170&h=170&fit=crop&s=171316079fd9737c90f60af76601d3ea","menu_detail__retina":"https://images3.munchery.com/avatars/865/philz-coffee.jpg?dpr=2.0&crop=faces&shad=30&gam=20&sat=-100&w=170&h=170&fit=crop&s=022cc964f7fff66c755d5040e285cd34","xxlarge":"https://images2.munchery.com/avatars/865/philz-coffee.jpg?dpr=1.1&crop=faces&w=1500&h=1100&fit=crop&s=aae1eed9b06fc19200ff23b949133cd7","xxlarge__retina":"https://images1.munchery.com/avatars/865/philz-coffee.jpg?dpr=2.0&crop=faces&w=3000&h=2200&fit=crop&s=0101591ff70f25b9c905a588cceb9b9c","large":"https://images0.munchery.com/avatars/865/philz-coffee.jpg?crop=faces&w=280&h=280&fit=crop&s=665bf1ea475d04cc52f67a2d0c74446e","large__retina":"https://images2.munchery.com/avatars/865/philz-coffee.jpg?crop=faces&w=560&h=560&fit=crop&s=cbb6dd4ca1a1e04ead027e6aa2b8d663"}},"59":{"name":"Munchery Chefs ","bio":"San Francisco's Chef Team","full_bio":"We are a group of chefs who bring over 100-years of combined experience to Munchery. Collectively, we've cooked in some of the most highly acclaimed restaurants, in the grandest of settings, but we all agree that we most love the smells, tastes and fun of preparing Thanksgiving dinner. It’s an event that we look forward to each year - picking the perfect turkey and roasting it to perfection, chopping vegetables, thickening gravy..We love it so much that we've joined forces to create a traditional feast with all the classics for our Munchery customers to enjoy. It is our hope that your Turkey Day is one filled with good food, joy, laughter, football and perhaps even a nap. \r\n\r\nHappy Thanksgiving!\r\n\r\n-Alex, Bridget, Jeremy, Matthew, Ray, Scott, and Steven","bio_quote":"Get all the extras you need for a convenient, amazing dinner at home.  We started with coolers, and we're gonna be releasing other complementary items soon!","url":"sfchefs","rating":{"count":8,"avg":4.0},"photos":{"menu":"https://images0.munchery.com/avatars/1323/munchery-knife-fork-logo.jpg?crop=faces&sat=-100&q=90&w=55&h=55&fit=crop&s=22faeed740a6341baa58813fe82f1b64","menu__retina":"https://images2.munchery.com/avatars/1323/munchery-knife-fork-logo.jpg?dpr=2.0&crop=faces&sat=-100&w=55&h=55&fit=crop&s=0630ea96a96f3f400b3ada5eea6d17da","menu_detail":"https://images2.munchery.com/avatars/1323/munchery-knife-fork-logo.jpg?dpr=1.1&crop=faces&shad=30&gam=20&sat=-100&q=85&w=170&h=170&fit=crop&s=b97304155349574af6c8a1ff5eb88a16","menu_detail__retina":"https://images1.munchery.com/avatars/1323/munchery-knife-fork-logo.jpg?dpr=2.0&crop=faces&shad=30&gam=20&sat=-100&w=170&h=170&fit=crop&s=cc9ee9c27c7b6ce4f6adc16ea0b4f38e","xxlarge":"https://images0.munchery.com/avatars/1323/munchery-knife-fork-logo.jpg?dpr=1.1&crop=faces&w=1500&h=1100&fit=crop&s=e2b282dd75a37472faa4cd0817b10f65","xxlarge__retina":"https://images1.munchery.com/avatars/1323/munchery-knife-fork-logo.jpg?dpr=2.0&crop=faces&w=3000&h=2200&fit=crop&s=cd5f3423f697478512ee6b182c39a623","large":"https://images3.munchery.com/avatars/1323/munchery-knife-fork-logo.jpg?crop=faces&w=280&h=280&fit=crop&s=e11847eacafb9bb3fc6adb668fbe17ef","large__retina":"https://images2.munchery.com/avatars/1323/munchery-knife-fork-logo.jpg?crop=faces&w=560&h=560&fit=crop&s=e9d595656ceb65713cd02be60786911a"}},"96":{"name":"Coffee  Bar","bio":"San Francisco, CA","full_bio":"Our mission for Coffee Bar exists today as it did six years ago: to provide our customers with an exceptional cafe experience. We do that in a few different ways, but we believe the best experience begins with the coffee itself, and that means working with an extraordinary roaster. At Coffee Bar, all of our beans are sourced directly from Mr. Espresso, a Bay Area roasting institution since the 1970s. Their attention to responsibly-sourced and prepared beans adds an irreplaceable dynamic to the experience we strive to create. But we also know that outstanding coffee alone doesn’t make a great cafe. We believe in the idea of the cafe as a social institution, a positive landmark in the community where work gets done, people connect, and ideas are shared. Our open, modern space is the ideal backdrop to any part of your day and we hope you feel the same. ","bio_quote":"Our coffee beans are sourced directly from Mr. Espresso and are oak wood roasted the traditional way. These responsibly-sourced coffee beans adds an irreplaceable dynamic to the experience we strive to create. All juices are cold pressed with fresh raw produce every morning.","url":"coffee-bar","rating":{"count":179,"avg":4.4},"photos":{"menu":"https://images0.munchery.com/avatars/236/thirdparty-coffeebar.png?crop=faces&sat=-100&q=90&w=55&h=55&fit=crop&s=5a9b597177c1546fdb9ec2d6eba704a9","menu__retina":"https://images1.munchery.com/avatars/236/thirdparty-coffeebar.png?dpr=2.0&crop=faces&sat=-100&w=55&h=55&fit=crop&s=e3ead8117443bc7478ee8c92b2db351e","menu_detail":"https://images1.munchery.com/avatars/236/thirdparty-coffeebar.png?dpr=1.1&crop=faces&shad=30&gam=20&sat=-100&q=85&w=170&h=170&fit=crop&s=404f5eb7b5f61ce58b21fdbbfac1116a","menu_detail__retina":"https://images1.munchery.com/avatars/236/thirdparty-coffeebar.png?dpr=2.0&crop=faces&shad=30&gam=20&sat=-100&w=170&h=170&fit=crop&s=f63ed4a367a538124a0f1f7aa5bea746","xxlarge":"https://images0.munchery.com/avatars/236/thirdparty-coffeebar.png?dpr=1.1&crop=faces&w=1500&h=1100&fit=crop&s=aea940b24daad83ef7c24d9bad3c3c64","xxlarge__retina":"https://images2.munchery.com/avatars/236/thirdparty-coffeebar.png?dpr=2.0&crop=faces&w=3000&h=2200&fit=crop&s=a6757b39dedae27c6b57568fefc0030e","large":"https://images2.munchery.com/avatars/236/thirdparty-coffeebar.png?crop=faces&w=280&h=280&fit=crop&s=2e84f33bba3366f7c1d0ffd8fe92eda2","large__retina":"https://images0.munchery.com/avatars/236/thirdparty-coffeebar.png?crop=faces&w=560&h=560&fit=crop&s=3715fc7351c2b16ded810e9ff353182b"}},"64":{"name":"Chef Steven Levine","bio":"Alum of Cosmopolitan (Exec Chef), Zoë","full_bio":"I am a New York City raised chef who fell in love with The Bay Area. I moved here with my wife and two daughters 15 years ago and aside from still rooting for the Yankees, I haven't looked back since. I have over 25 years experience working in some of the finest Contemporary American restaurants in NYC and The Bay Area such as The River Cafe, Aureole, The Quilted Giraffe, Zoe Restaurant, Freestyle in Sonoma and most recently The Cosmopolitan in San Francisco. ","bio_quote":"I find that the biggest difference between being a chef in New York City and being a chef in The Bay Area is that in NYC you work to MAKE the food taste good. Out here you work to LET the food taste good!","url":"steven-levine","rating":{"count":2847,"avg":4.5},"photos":{"menu":"https://images2.munchery.com/avatars/57/steven-levine-avatar.jpg?crop=faces&sat=-100&q=90&w=55&h=55&fit=crop&s=b164b6ab7dfda67d26df2e8bdbd67cfe","menu__retina":"https://images3.munchery.com/avatars/57/steven-levine-avatar.jpg?dpr=2.0&crop=faces&sat=-100&w=55&h=55&fit=crop&s=b246f63675d1f795d5f119b990eb12ce","menu_detail":"https://images3.munchery.com/avatars/57/steven-levine-avatar.jpg?dpr=1.1&crop=faces&shad=30&gam=20&sat=-100&q=85&w=170&h=170&fit=crop&s=eae21e196fdf1226f6131da5865c1d1f","menu_detail__retina":"https://images0.munchery.com/avatars/57/steven-levine-avatar.jpg?dpr=2.0&crop=faces&shad=30&gam=20&sat=-100&w=170&h=170&fit=crop&s=6008ce6ae96d8cba7abc9eed38ba7c7c","xxlarge":"https://images2.munchery.com/bio-photos/21/steven-levine.jpg?dpr=1.1&w=1130&h=550&fit=crop&s=fb09ac50b9ffaadbe6371b4f52174d3d","xxlarge__retina":"https://images2.munchery.com/bio-photos/21/steven-levine.jpg?dpr=2.0&w=1130&h=550&fit=crop&s=e328c46726a4127d9ff8f4fff0946ffb","large":"https://images2.munchery.com/bio-photos/21/steven-levine.jpg?dpr=1.1&w=520&h=320&fit=crop&s=b7ed456d69c389b2c632507d20257045","large__retina":"https://images0.munchery.com/bio-photos/21/steven-levine.jpg?dpr=2.0&w=520&h=320&fit=crop&s=b1f5819f3f90395f8b861ed82d3c9d09"}},"60":{"name":"Chef Raymond Reyes","bio":"Alum of Gather, Michael Mina, Blowfish","full_bio":"Chef Raymond Reyes started cooking at the age of 15. He then attended culinary school at Mission College in San Jose, CA where he graduated in 2000.  After school, Chef Raymond threw himself into the fire and worked his way up to chef de cuisine or sous chef at many top restaurants in the Bay Area including Gather (Berkeley), Michael Mina (SF), Blowfish Sushi (San Jose, SF), Yoshi's (Oakland), Sushi Ran (Sausalito), and Bistro Liaison (Berkeley). Working under great chefs, Chef Raymond developed his craft. Today, he focuses on local farmers and fresh sustainable organic products that he uses to prepare meals for Munchery customers.\r\n","bio_quote":"I define my cooking style as \" Pan Asian, Japanese, Classic to modern French Cuisine \". I would like to share with you the flavors and textures I experience on my palate, using my favorite fresh, locally-sourced ingredients. Enjoy!","url":"raymond-reyes","rating":{"count":2380,"avg":4.2},"photos":{"menu":"https://images2.munchery.com/avatars/50/raymond-reyes-square.jpg?crop=faces&sat=-100&q=90&w=55&h=55&fit=crop&s=5c3b61a5a41067122fbd8188f0580cac","menu__retina":"https://images2.munchery.com/avatars/50/raymond-reyes-square.jpg?dpr=2.0&crop=faces&sat=-100&w=55&h=55&fit=crop&s=bff8bfb5569765a61f878937a4541814","menu_detail":"https://images3.munchery.com/avatars/50/raymond-reyes-square.jpg?dpr=1.1&crop=faces&shad=30&gam=20&sat=-100&q=85&w=170&h=170&fit=crop&s=ebceaffe8fb5d45e809dd10e3c2e4763","menu_detail__retina":"https://images3.munchery.com/avatars/50/raymond-reyes-square.jpg?dpr=2.0&crop=faces&shad=30&gam=20&sat=-100&w=170&h=170&fit=crop&s=ced989525761bdcd105e4512c21ec788","xxlarge":"https://images1.munchery.com/bio-photos/26/raymond-reyes-bio.jpg?dpr=1.1&w=1130&h=550&fit=crop&s=ac3c9a018c1c3d2b31783a02927b4e79","xxlarge__retina":"https://images0.munchery.com/bio-photos/26/raymond-reyes-bio.jpg?dpr=2.0&w=1130&h=550&fit=crop&s=5c14e9865466190e80eb0065ce500f6f","large":"https://images3.munchery.com/bio-photos/26/raymond-reyes-bio.jpg?dpr=1.1&w=520&h=320&fit=crop&s=1a155d6edc60128aa04d53a64d9fbf63","large__retina":"https://images0.munchery.com/bio-photos/26/raymond-reyes-bio.jpg?dpr=2.0&w=520&h=320&fit=crop&s=7386e5cc6f78d9285f84f07cc1538735"}},"102":{"name":"Chef Scott Newman","bio":"Alum of Rubicon (Exec Chef), Coyote Cafe","full_bio":"As a young man, Scott Newman thought he wanted to be an actor, so the creative atmosphere of the professional kitchen was a perfect fit. He started his wild-ride cooking career in San Francisco working at Masa’s under Julian Serrano, and then moved to the tinsel of Los Angeles to work with Joachim Splichal at the highly acclaimed Patina. As Possonier, he honed his natural love of fish, while continuing to develop a wide-ranging repertoire of his own.\r\n\r\nHe came to San Francisco to help open Rubicon as Sous Chef and would go on to become Executive Chef.\r\n\r\nWith his family in the Southwest, Scott relocated first to Santa Fe to be the chef of the Coyote Café, and then to Arizona to be a partner in a new multi-locale restaurant group. \r\n\r\nBut the allure of opportunity in the multi-cultural Bay Area brought him back as a private chef and caterer. \r\n","bio_quote":"I would define my cooking style as modern American. I'm influenced by the ever changing array of seasonal produce and artisan foods we are so lucky to have in the Bay Area. Top quality products inspire top quality creations!","url":"scott-newman","rating":{"count":642,"avg":4.1},"photos":{"menu":"https://images1.munchery.com/avatars/510/2014-04-22-14466-edit.jpg?crop=faces&sat=-100&q=90&w=55&h=55&fit=crop&s=b19dd357473a097bcf9082617bf04dd1","menu__retina":"https://images0.munchery.com/avatars/510/2014-04-22-14466-edit.jpg?dpr=2.0&crop=faces&sat=-100&w=55&h=55&fit=crop&s=390ff452553d5733470b516d22fd388f","menu_detail":"https://images2.munchery.com/avatars/510/2014-04-22-14466-edit.jpg?dpr=1.1&crop=faces&shad=30&gam=20&sat=-100&q=85&w=170&h=170&fit=crop&s=ba97204cf44b08a34f7b4803c7ccacbd","menu_detail__retina":"https://images0.munchery.com/avatars/510/2014-04-22-14466-edit.jpg?dpr=2.0&crop=faces&shad=30&gam=20&sat=-100&w=170&h=170&fit=crop&s=d967eb94475c7d2e8a0be3d99cff8241","xxlarge":"https://images3.munchery.com/bio-photos/40/scott-newman.jpg?dpr=1.1&w=1130&h=550&fit=crop&s=61fba2050db7f472938cbd9f163017e1","xxlarge__retina":"https://images1.munchery.com/bio-photos/40/scott-newman.jpg?dpr=2.0&w=1130&h=550&fit=crop&s=db4532b782813d85d7d7c47bca127fd3","large":"https://images0.munchery.com/bio-photos/40/scott-newman.jpg?dpr=1.1&w=520&h=320&fit=crop&s=918d0ef3344c15946f8a11fa71be2a0a","large__retina":"https://images3.munchery.com/bio-photos/40/scott-newman.jpg?dpr=2.0&w=520&h=320&fit=crop&s=f488765803cc7f76ceb364c9e39eb5f9"}},"90":{"name":"Chef Matthew Urban","bio":"Alum of Yuzu (Exec Chef), Cosmopolitan","full_bio":"Matthew Urban was born and raised in the Maryland/ D.C metropolitan area.  He started cooking alongside his mother at age 4 preparing various savory dishes such as Hungarian Paprikash and Coq Au Vin as well as numerous different pastries.  He started in the restaurant business at age 17 and in professional kitchens shortly after.  With strict training under two Sicilian chefs for the first three years he generated even a greater palate and understanding of the culinary world.  Matthew then worked under Johnny Monis (Chef Geoffs D.C., presently the Chef/Owner of Komi in D.C and a former James Beard nominee.)  He then moved to Seattle where he reopened Blue Onion Bistro as the Executive Chef. After 10 years enveloped in the business he moved to San Francisco to get his formal education at California Culinary Academy. His love of Japanese cuisine led him to help open Yuzu as the Executive Chef training alongside master sushi chef Hiro Hashinomoto.  He then left to gain more understanding of the seasonality and locality of the Bay Area working for Chef Steven Levine (Cosmopolitan).  Matthew is classically trained in Mediterranean, French, and Japanese cuisine with a strong focus on Californian-Mediterranean.","bio_quote":"I've been cooking since I was 4 years old, at my mom's side. I belong in the world of food - from the preparation of each component, to the finished presentation of each dish. I hope you enjoy my creation.","url":"matthew-urban","rating":{"count":1174,"avg":4.1},"photos":{"menu":"https://images2.munchery.com/avatars/151/matthew-urban.jpg?crop=faces&sat=-100&q=90&w=55&h=55&fit=crop&s=ec5b5224a2275d5b58864690c06d88b6","menu__retina":"https://images3.munchery.com/avatars/151/matthew-urban.jpg?dpr=2.0&crop=faces&sat=-100&w=55&h=55&fit=crop&s=4116654d88a74db4ad61f10f4013e82d","menu_detail":"https://images3.munchery.com/avatars/151/matthew-urban.jpg?dpr=1.1&crop=faces&shad=30&gam=20&sat=-100&q=85&w=170&h=170&fit=crop&s=40710f27677a18861b78f27ee887721d","menu_detail__retina":"https://images1.munchery.com/avatars/151/matthew-urban.jpg?dpr=2.0&crop=faces&shad=30&gam=20&sat=-100&w=170&h=170&fit=crop&s=dbbdc6fc6b22f46082fa1b05f3a45c80","xxlarge":"https://images3.munchery.com/bio-photos/15/matthew-urban.jpg?dpr=1.1&w=1130&h=550&fit=crop&s=6a9d6233fc7fec8e5293a1a89e0ac3c5","xxlarge__retina":"https://images3.munchery.com/bio-photos/15/matthew-urban.jpg?dpr=2.0&w=1130&h=550&fit=crop&s=ec5cef8da236c4284262ac0be9b16b22","large":"https://images3.munchery.com/bio-photos/15/matthew-urban.jpg?dpr=1.1&w=520&h=320&fit=crop&s=c1b1c934dde749ad9b35fa5b0d7fefd5","large__retina":"https://images3.munchery.com/bio-photos/15/matthew-urban.jpg?dpr=2.0&w=520&h=320&fit=crop&s=c4536b493818fca280af2c8f7ae7d729"}},"52":{"name":"Chef Fletcher Starkey","bio":"Alum of The Metro (Exec Chef), Google","full_bio":"Hailing from rural Northern Vermont, I was raised on an organic farm and taught to respect the ingredient from the time I could walk. I left the farm to receive training and an culinary degree from the Culinary Institute of America, class of 2001. \r\n\r\nUpon graduation, I migrated west, headed for the bay. I spent a few years in Santa Cruz and Sonoma before settling in the Mission district. Looking forward to all the plentiful work in the city I was living in, I instead promptly took a job in Mountain View, as chef for an assortment of Google cafes, including a year running the You Tube Cafe in San Bruno. \r\n\r\nFour years later I set out on my own to create a dream business, a San Francisco based operation serving the bay area with my own creations. Elevate Cuisine Catering was founded in July of 2012, and I've been living the dream ever since! We create dishes from many different cultures and regions, preparing global flavors with locally sourced ingredients and classical training.\r\n\r\nThen, in the fall of 2013, I expanded to a brick and mortar restaurant in the Bayview district, CDXX. We now craft all of our meals in our very own spotless facility, rated a perfect 100 by the Department of Public Health. Come by for a visit and say hi!\r\n\r\n","bio_quote":"Raised on an organic farm in Northern Vermont, I experimented with my first ingredients fresh from the garden. I use the foundation of those experiments and my culinary training to bring you dishes prepared from local ingredients, but with global flavors.","url":"fletcher-starkey","rating":{"count":865,"avg":4.1},"photos":{"menu":"https://images0.munchery.com/avatars/64/fletcher-starkey-square.jpg?crop=faces&sat=-100&q=90&w=55&h=55&fit=crop&s=84ad436da86ffe278f1b0c1360d5d86e","menu__retina":"https://images0.munchery.com/avatars/64/fletcher-starkey-square.jpg?dpr=2.0&crop=faces&sat=-100&w=55&h=55&fit=crop&s=d9d457f60e8796febb019b04c0c770f7","menu_detail":"https://images0.munchery.com/avatars/64/fletcher-starkey-square.jpg?dpr=1.1&crop=faces&shad=30&gam=20&sat=-100&q=85&w=170&h=170&fit=crop&s=64b42b8ab5f37e7a49e138dfaaa0f86d","menu_detail__retina":"https://images0.munchery.com/avatars/64/fletcher-starkey-square.jpg?dpr=2.0&crop=faces&shad=30&gam=20&sat=-100&w=170&h=170&fit=crop&s=f72909afb74ede5644da8d065978058e","xxlarge":"https://images1.munchery.com/bio-photos/25/fletcher-starky-bio.jpg?dpr=1.1&w=1130&h=550&fit=crop&s=960b783bf15751bccef0183cb6648cd3","xxlarge__retina":"https://images3.munchery.com/bio-photos/25/fletcher-starky-bio.jpg?dpr=2.0&w=1130&h=550&fit=crop&s=791312ca35cf8bb4b2b42a6d11c26877","large":"https://images0.munchery.com/bio-photos/25/fletcher-starky-bio.jpg?dpr=1.1&w=520&h=320&fit=crop&s=5063d53441f46cc05b86384572ef8983","large__retina":"https://images0.munchery.com/bio-photos/25/fletcher-starky-bio.jpg?dpr=2.0&w=520&h=320&fit=crop&s=10308b57455d260301f3b75b17a2c255"}},"92":{"name":"Chef Jeremy Goldfarb","bio":"Alum of 123 Bolinas (Executive Chef)","full_bio":"I'm a SF Bay Area native. I grew up in a household where we spent much of the time in the kitchen watching my mom cook. In a lot of ways, I think it played a pivotal role in me deciding to go to culinary school.\r\n\r\nI attended Utah Valley University, concurrently doing a culinary internship at The Canyons Ski Resort in Park City, Utah. Between school and my internship, it was an amazing way to get my foot in the door, and expose myself to a ton of things in a short period of time. At the end of my internship I stayed on at The Canyons until the close of the winter season, taking that time  to apply my recently acquired skill sets. \r\n\r\nAfter that I took a job working with Chef Ryker Brown at Promontory Ranch Club in Park City, Utah. Looking back, I see this as a job that was one of the most influential in my career. Ryker became my mentor and he gave me an appreciation for cooking food that is simple, yet refined. It was then that I realized I also wanted to run my own kitchen before the time I was 25 years old. I learned as much as I could, and when the time was right I moved back to the Bay Area to accomplish my goal.\r\n\r\nOver the past 6 years I have worked with some great chefs including Shane Mcnalley Executive Chef of Healdsburg's Chalkboard Bistro, and Beau Burroughs Chef of Dream Farm Restaurant in San Anselmo. For the past 3 and a half years though, I accomplished my goal and headed up my own kitchen at 123 Bolinas in Fairfax, CA. There I was given an amazing opportunity by Dominic Phillips, James Gregory, and Jacquelyn and Jeff Mahaney to get in touch with the local food scene, and put out a menu that highlights the spectacular food that is grown and produced right in our backyard. It's an experience that I'm taking a lot away from and looking forward to sharing with many onboard with Munchery. ","bio_quote":"If I had to categorize my style of cooking, I would call it New American. But, to me, food should be less about having to categorize the style and more about cooking something delicious that everyone can enjoy. So, enjoy!","url":"jeremy-goldfarb","rating":{"count":1151,"avg":4.1},"photos":{"menu":"https://images2.munchery.com/avatars/184/jeremy-goldfarb.jpg?crop=faces&sat=-100&q=90&w=55&h=55&fit=crop&s=3a186074badb67a11e3a49c7b29c8ecd","menu__retina":"https://images3.munchery.com/avatars/184/jeremy-goldfarb.jpg?dpr=2.0&crop=faces&sat=-100&w=55&h=55&fit=crop&s=ddd6111b5c9949979c659940ae0a4bba","menu_detail":"https://images3.munchery.com/avatars/184/jeremy-goldfarb.jpg?dpr=1.1&crop=faces&shad=30&gam=20&sat=-100&q=85&w=170&h=170&fit=crop&s=540a0e0f86b313502b79fd9edca877c1","menu_detail__retina":"https://images0.munchery.com/avatars/184/jeremy-goldfarb.jpg?dpr=2.0&crop=faces&shad=30&gam=20&sat=-100&w=170&h=170&fit=crop&s=0269062179cb7f5ea42f08f22893b686","xxlarge":"https://images0.munchery.com/bio-photos/12/jeremey-goldfarb.jpg?dpr=1.1&w=1130&h=550&fit=crop&s=cd2f1c841b44dbd263d854c51d01ec76","xxlarge__retina":"https://images2.munchery.com/bio-photos/12/jeremey-goldfarb.jpg?dpr=2.0&w=1130&h=550&fit=crop&s=a4600612196dae994dfb583796f5de09","large":"https://images2.munchery.com/bio-photos/12/jeremey-goldfarb.jpg?dpr=1.1&w=520&h=320&fit=crop&s=1bedfb10b0a7a3c5a06edfcc2d2590b2","large__retina":"https://images3.munchery.com/bio-photos/12/jeremey-goldfarb.jpg?dpr=2.0&w=520&h=320&fit=crop&s=43e7440c123f6e8b2066271ec4730d4e"}},"116":{"name":"Chef Mica Talmor Gott","bio":"Chef - Partner of Savoy Events, Oakland","full_bio":"Mica Talmor Gott is the chef owner of Savoy Events. Co-owned by Robert Gott, Savoy Events is a boutique full-service catering and event planning company. \r\n\r\nBorn and raised in Israel to a farming family, Mica’s practice of cooking with only the freshest ingredients and making everything from scratch was ingrained at a very young age.\r\n\r\nAfter earning a culinary degree in the French tradition and working in a hotel and restaurants in Tel Aviv, Mica moved to the Bay Area to earn her Pastry Chef Degree at the California Culinary Academy. After graduating, she quickly distinguished herself by working for some of San Francisco’s most creative restaurants and caterers. The Bay Area introduced Mica to Pan Asian cuisine, and her true passion became incorporating her fascination with ethnic foods with her already established skills and techniques.\r\n\r\nWhile a pastry chef at both EOS and Grasshopper, the restaurants were awarded “Best Place for Desserts” from both the San Francisco Bay Guardian and the Oakland Tribune. Around the same time, Mica was featured on the Food Network serving savory creations in an outdoor adventure setting with Chef Bobby Flay. \r\n\r\nIn 2004, Ellen Tussman handpicked Mica and Robert Gott to assume ownership of Savoy Events, one of the Bay Area’s premier off-premise catering companies established in 1972.\r\nThe infusion of fresh energy and creative talent that these two have brought to the company delights Savoy’s returning and new clients.\r\n\r\nIt's our pleasure to offer our menus to you. Enjoy!","bio_quote":"I am already missing cherry season.","url":"mica-talmor-gott","rating":{"count":208,"avg":4.1},"photos":{"menu":"https://images0.munchery.com/avatars/962/2014-09-09-28472-long.jpg?crop=faces&sat=-100&q=90&w=55&h=55&fit=crop&s=466a294152049bf042f6fc5c3d214f11","menu__retina":"https://images3.munchery.com/avatars/962/2014-09-09-28472-long.jpg?dpr=2.0&crop=faces&sat=-100&w=55&h=55&fit=crop&s=427e040c9d87479c51ef11d197433d22","menu_detail":"https://images1.munchery.com/avatars/962/2014-09-09-28472-long.jpg?dpr=1.1&crop=faces&shad=30&gam=20&sat=-100&q=85&w=170&h=170&fit=crop&s=8c40a4f982cb5aca7fa8249bd922bbff","menu_detail__retina":"https://images2.munchery.com/avatars/962/2014-09-09-28472-long.jpg?dpr=2.0&crop=faces&shad=30&gam=20&sat=-100&w=170&h=170&fit=crop&s=194b6eb387a2843e2c69f131a48fbd38","xxlarge":"https://images1.munchery.com/bio-photos/55/mica-chef-savoy.jpg?dpr=1.1&w=1130&h=550&fit=crop&s=4896e6555b1c63b9f61e3ad75d6febc1","xxlarge__retina":"https://images2.munchery.com/bio-photos/55/mica-chef-savoy.jpg?dpr=2.0&w=1130&h=550&fit=crop&s=14e5d2d4cdb4878d9e08658988dd7c30","large":"https://images3.munchery.com/bio-photos/55/mica-chef-savoy.jpg?dpr=1.1&w=520&h=320&fit=crop&s=8fc5d00d9e12f03dd49d59201e772375","large__retina":"https://images1.munchery.com/bio-photos/55/mica-chef-savoy.jpg?dpr=2.0&w=520&h=320&fit=crop&s=7b4065c9999a251cfac96fcaef390b7e"}},"98":{"name":"Chef Bridget Batson","bio":"Alum of Gitane and Claudine (Exec Chef)","full_bio":"Born and raised in New Jersey, I started my post-high school education as a Criminal Justice major. Like many young people, I soon changed my mind about what I wanted to do with my life, and had the epiphany that I would much rather watch Law & Order than actually pursue a career in the field.\r\n\r\nWith no culinary training, I enrolled in the famed Peter Kump’s New York Cooking School where I studied pastry under Chef Nicholas Malgieri. The experience, while valuable, helped me to discover that pastry is too restrictive, as I prefer being able to cook without such strict confines.\r\n\r\nAfter graduation I cooked my way from New Jersey to Boston at the still very popular Blue Room before making way to the West Coast. My career in San Francisco began as an Executive Chef at Hawthorne Lane. After 11 years of maintaining all aspects of the kitchen and catering department, I decided to “take a few months off” and became the sous chef at Pizzeria Delfina.\r\n\r\nIn 2010 I accepted the position as the Executive Chef of Gitane and a year later added Claudine to my resume. \r\n\r\nI try to not to take myself too seriously – something I learned from one of my mentors in Boston, Chef Chris Schlesinger. \r\n\r\nFor me being a chef is not just a profession – it is a passion and a joy.  ","bio_quote":"I am so excited to provide healthy and wholesome, delicious meals to the Bay Area at Munchery.  That need is too often overlooked in the restaurant world.  There is nothing more exciting than incredible fresh food that nourishes your body and soul!","url":"bridget-batson","rating":{"count":1538,"avg":4.2},"photos":{"menu":"https://images1.munchery.com/avatars/265/bridget-batson-bio.jpg?crop=faces&sat=-100&q=90&w=55&h=55&fit=crop&s=835480deb258fa0054f6ef4cbe212921","menu__retina":"https://images0.munchery.com/avatars/265/bridget-batson-bio.jpg?dpr=2.0&crop=faces&sat=-100&w=55&h=55&fit=crop&s=c5431270541d133e7b0d8574f7709bed","menu_detail":"https://images1.munchery.com/avatars/265/bridget-batson-bio.jpg?dpr=1.1&crop=faces&shad=30&gam=20&sat=-100&q=85&w=170&h=170&fit=crop&s=5fd8e648597611b868aad6a438917cb1","menu_detail__retina":"https://images0.munchery.com/avatars/265/bridget-batson-bio.jpg?dpr=2.0&crop=faces&shad=30&gam=20&sat=-100&w=170&h=170&fit=crop&s=6155f8fcf052fdd9a5b434e8ef3701ed","xxlarge":"https://images3.munchery.com/bio-photos/52/bridget-batson.jpg?dpr=1.1&w=1130&h=550&fit=crop&s=6e0e75948992d7ef91bbc211247335bc","xxlarge__retina":"https://images0.munchery.com/bio-photos/52/bridget-batson.jpg?dpr=2.0&w=1130&h=550&fit=crop&s=fec45a54d8c165dda6952cdd036150f3","large":"https://images2.munchery.com/bio-photos/52/bridget-batson.jpg?dpr=1.1&w=520&h=320&fit=crop&s=5a8af57d0e7d71b2456bb2813789dbd4","large__retina":"https://images3.munchery.com/bio-photos/52/bridget-batson.jpg?dpr=2.0&w=520&h=320&fit=crop&s=cc31f2eeff6b496cee7e25dc38b06985"}},"112":{"name":"Chef Jaynelle St. Jean","bio":"Chef-Proprietor of PieTisserie ","full_bio":"PieTisserie began after San Francisco native Jaynelle St. Jean staged a window of her mother’s home as an iconic country window, with homemade pies set out to cool. Compelled to create her own small town in the city, she gave away slices to passersby willing to eat with neighbors. Jaynelle launched PieTisserie, making it her mission to fill the need for unique and delicious pies, and to remind people of the importance of pleasant surprises close to home via her Random Acts of Sweetness.","bio_quote":"Jaynelle is hard at work opening PieTisserie's brick & mortar pie shop, a block off of Lake Merritt in Oakland, scheduled later this summer: \"Thoughts of grassy lakeside pie picnics are my bliss.\"","url":"jaynelle-st-jean","rating":{"count":239,"avg":4.5},"photos":{"menu":"https://images3.munchery.com/avatars/715/2014-06-26-21915-edit.jpg?crop=faces&sat=-100&q=90&w=55&h=55&fit=crop&s=688dc029a2dc5675856a3bf1a2fd83ae","menu__retina":"https://images1.munchery.com/avatars/715/2014-06-26-21915-edit.jpg?dpr=2.0&crop=faces&sat=-100&w=55&h=55&fit=crop&s=16d7abfac23519f8cf3ab714e2d03358","menu_detail":"https://images0.munchery.com/avatars/715/2014-06-26-21915-edit.jpg?dpr=1.1&crop=faces&shad=30&gam=20&sat=-100&q=85&w=170&h=170&fit=crop&s=6b9fcb5d3af45ad803e96b55c9125079","menu_detail__retina":"https://images3.munchery.com/avatars/715/2014-06-26-21915-edit.jpg?dpr=2.0&crop=faces&shad=30&gam=20&sat=-100&w=170&h=170&fit=crop&s=4bb8239d2a8829936ffb545aec130f8f","xxlarge":"https://images2.munchery.com/bio-photos/53/jaynelle-st-jean.jpg?dpr=1.1&w=1130&h=550&fit=crop&s=6d817005651edbc544d6cdbcdde9fe58","xxlarge__retina":"https://images1.munchery.com/bio-photos/53/jaynelle-st-jean.jpg?dpr=2.0&w=1130&h=550&fit=crop&s=0b8aff408bf6e3f47e9a28cfe4abc93b","large":"https://images0.munchery.com/bio-photos/53/jaynelle-st-jean.jpg?dpr=1.1&w=520&h=320&fit=crop&s=839f71d3eb888a65d11542264a5a7772","large__retina":"https://images2.munchery.com/bio-photos/53/jaynelle-st-jean.jpg?dpr=2.0&w=520&h=320&fit=crop&s=477cad2ce09435be5fe3a1e793d1c0f1"}},"93":{"name":"Cellar Searchers","bio":"Curators of fine beer, wine and spirits","full_bio":"Cellar Searchers got it's start in the wine business in 1976 when founder Brian Maurer was hired as a waiter. In 1980, while finishing college, he was hired as a cellar master and sommelier in Great Britain. There he was responsible for assisting customers with selections and keeping the wine cellar fully stocked at an upscale restaurant in Newcastle. \r\n \r\nUpon his return to the United States a year later, he was hired by Bill Traverso, a Sonoma and Napa area wine icon. He worked alongside of Bill at Traverso's Gourmet Foods and Wines in Santa Rosa for 12 years learning many aspects of the wine world through Bill.  \r\n \r\nHe then took a wine buying position at Molesberry Market, a chain of 5 grocery stores and worked there for several year. In 1996 Brian went to work for Glenn Segale at The Wine Spectrum as their domestic/international wine buyer.  From this position, he built a bridge to Europe and purchased wine directly from distributors and wineries in overseas. In 2000, he started his own Retail/ Distribution/ Import business called Vino Veritas, which evolved into B&R Wines and finally Cellar Searchers. \r\n \r\nThroughout his career and still to this day, Brian keeps up with the trade taking many classes ranging from sensory perception to the art of making wine. He has distributed wines for top wineries including Abreu, Rivers Marie, Morlet, Staglin, Aubert, Whetstone, Kesner, Native 9, Scherrer to name a few.  He also judges wine competitions since being introduced to the judging by local wine expert, Dan Berger.\r\n \r\n","bio_quote":"We want to elevate and evolve the symbiotic relationship between wine, beer and other fermented products that belong with all of the outstanding meals that Munchery offers.","url":"cellar-searchers","rating":{"count":66,"avg":3.9},"photos":{"menu":"https://images1.munchery.com/avatars/237/thirdparty-cellarsearchers.png?crop=faces&sat=-100&q=90&w=55&h=55&fit=crop&s=bceab3825cd4ca8eff840eb0b4cdb0ff","menu__retina":"https://images2.munchery.com/avatars/237/thirdparty-cellarsearchers.png?dpr=2.0&crop=faces&sat=-100&w=55&h=55&fit=crop&s=532eb2736cdf32ca4ac18c6bf95fe5a7","menu_detail":"https://images0.munchery.com/avatars/237/thirdparty-cellarsearchers.png?dpr=1.1&crop=faces&shad=30&gam=20&sat=-100&q=85&w=170&h=170&fit=crop&s=4c1a524abd3e3690a91d6c80aee1fcfb","menu_detail__retina":"https://images3.munchery.com/avatars/237/thirdparty-cellarsearchers.png?dpr=2.0&crop=faces&shad=30&gam=20&sat=-100&w=170&h=170&fit=crop&s=fd72713ee5fa71d77b4e1c41babb8ff7","xxlarge":"https://images2.munchery.com/avatars/237/thirdparty-cellarsearchers.png?dpr=1.1&crop=faces&w=1500&h=1100&fit=crop&s=9b6e3e91e4a52bd0b4eed73ed894d2cb","xxlarge__retina":"https://images2.munchery.com/avatars/237/thirdparty-cellarsearchers.png?dpr=2.0&crop=faces&w=3000&h=2200&fit=crop&s=0164096d07e7fc7d758d78eb50646536","large":"https://images0.munchery.com/avatars/237/thirdparty-cellarsearchers.png?crop=faces&w=280&h=280&fit=crop&s=3793500441edec53acce9f2274edb460","large__retina":"https://images3.munchery.com/avatars/237/thirdparty-cellarsearchers.png?crop=faces&w=560&h=560&fit=crop&s=886581c5e8c91a6059e2a2dbc00eebda"}},"58":{"name":"Chef Hayashida & Honda","bio":"Alum of Blowfish (Exec Chef), Skool","full_bio":"“CELEBRATING LIFE WITH FOOD” is what we live by.\r\n\r\nIn short, HayaHon does it right - from Yakitori and Japanese small plates, to traditional sushi and Hawaiian-style lunch plates. Committed to sustainability, all of the fish they use meets the Monterey Bay Aquarium guidelines while all produce used is purchased from local farmers and is organic\r\n\r\nMark Hayashida and Johnny Honda's combined background and experience allows them to express their craft with sushi and Japanese food that has their personal Island touch which expresses their heritage and culture.  A love for food extends much further than a career; they love to cook for their friends and family as much as possible and are excited to extend this passion to Munchery diners.\r\n\r\nJohnny Honda has professionally trained in restaurants for 10 years.  Spanning across the Caramel Valley, Johnny has cooked in places such as Bernardus Lodge while also executing private catering events. This led him to start his own catering company while also serving as Catering Chef at Google. His culinary experience is shown through his work ethic, creativity, and love for culture. \r\n\r\nMark Hayashida has covered a lot of culinary territory since graduating from UC Davis and the California Culinary Academy, cooking Classic French-inspired cuisine. From the LA Ritz-Carlton, Mark was Executive Chef at Blowfish, Santana Row, Sous Chef at Google and most recently helped open the Portrero Hill standout, Skool. His love for food came from his grandfather’s success in restaurants spreading from Kauai’s own “Lihue Cafe” to an Island restaurant in Los Angeles (Harry’s Aloha).  \r\n\r\nRecently, the duo teamed up to create HayaHon, a catering/pop-up concept.  The name is simple, yet straightforward and so is the food they create. We hope you enjoy.\r\n","bio_quote":"'Celebrating life with food' is what we live by.","url":"hayahon","rating":{"count":963,"avg":3.9},"photos":{"menu":"https://images1.munchery.com/avatars/46/hayahon.jpg?crop=faces&sat=-100&q=90&w=55&h=55&fit=crop&s=d741409be8fc98bca0b2498858b8f7d1","menu__retina":"https://images1.munchery.com/avatars/46/hayahon.jpg?dpr=2.0&crop=faces&sat=-100&w=55&h=55&fit=crop&s=7c4a5cc7b8ce66f363bb4cac69437909","menu_detail":"https://images2.munchery.com/avatars/46/hayahon.jpg?dpr=1.1&crop=faces&shad=30&gam=20&sat=-100&q=85&w=170&h=170&fit=crop&s=5ae9d5323c6daa6a344113fe17b70440","menu_detail__retina":"https://images2.munchery.com/avatars/46/hayahon.jpg?dpr=2.0&crop=faces&shad=30&gam=20&sat=-100&w=170&h=170&fit=crop&s=3a0b7f58fdb1ce8572e1e4664ad39d05","xxlarge":"https://images1.munchery.com/bio-photos/9/hayahon.jpg?dpr=1.1&w=1130&h=550&fit=crop&s=1544f6c542131f145c06487d19cbd73d","xxlarge__retina":"https://images3.munchery.com/bio-photos/9/hayahon.jpg?dpr=2.0&w=1130&h=550&fit=crop&s=8c574c658cd0c1160a72f3a8ba700197","large":"https://images0.munchery.com/bio-photos/9/hayahon.jpg?dpr=1.1&w=520&h=320&fit=crop&s=f739c2459d0f2e2adc397299736c4762","large__retina":"https://images3.munchery.com/bio-photos/9/hayahon.jpg?dpr=2.0&w=520&h=320&fit=crop&s=bf4bde28911b9d5f20bd8be272a3edc1"}}}},"region":"SF","zip":"94110","fulfillment_center":"SF-MISSION"}
+    </script>
+
+  <script type="text/ng-template" id="_navigation.ng">
+    <div id="menu-drawers" class="menu-drawers" data-animation="no-bounce">
+  <div class="menu-nav">
+
+    <div class="container-12">
+      <div class="grid-12">
+
+        <div class="menu-nav-left" ng-if="!!menu_pages[current_page].toc">
+
+          <div class="nav-item date-picker" data-dropdown="#menu-dates-dropdown" data-vertical-offset="1">
+
+            <a class="menu-prev" href="#/{{M.MenuApp.MenuAppController.previousPage(current_page)}}" ng-class="{disabled: current_page <= 0}"> </a>
+
+            <div class="selected-date">
+              <span class="day">
+                {{menu_pages[current_page].toc[current_page].pretty.day}}'s Menu &ndash; {{M.MenuApp.MenuAppController.format_date(menu_pages[current_page].toc[current_page].api, "MMM Do")}}
+              </span>
+            </div>
+
+            <a class="menu-next" href="#/{{M.MenuApp.MenuAppController.nextPage(current_page)}}" ng-class="{disabled: current_page >= (menu_pages[current_page].toc.length - 1)}"> </a>
+
+            <div id="menu-dates-dropdown" class="menu-dates-dropdown dropdown dropdown-relative dropdown-anchor-left">
+              <ul class="dropdown-menu">
+                <li ng-repeat="date in menu_pages[current_page].toc_with_weekends" ng-class="{ selected: date.original_index == current_page, special: date.special, weekend: date.weekend }" ng-switch="date.weekend">
+
+                  <a href="#/{{date.original_index}}" ng-switch-default>
+                    <div class="day">{{date.pretty.day}}'s Menu</div>
+                    <div class="date">{{M.MenuApp.MenuAppController.format_date(date.api, "MMM Do")}}</div>
+                  </a>
+
+                  <div ng-switch-when="weekend" class="weekend-placeholder">
+                    Closed on Saturday &amp; Sunday
+                  </div>
+
+                </li>
+              </ul>
+            </div>
+
+          </div>
+
+          <div class="nav-item menu-filters-button" data-dropdown="#menu-filters-dropdown" data-vertical-offset="1">
+            <label>Filter Items</label>
+          </div>
+
+          <div id="menu-filters-dropdown" class="menu-filters-dropdown dropdown dropdown-relative has-icons dropdown-anchor-left">
+            <ul class="dropdown-menu dropdown-menu-multiselect">
+
+                <li class="tag organic" menu-filter="Organic" ng-class="{selected: M.MenuApp.MenuAppController.isFilterSelected('Organic')}">
+                   <a href ng-click="M.MenuApp.MenuAppController.toggleFilter('Organic')">
+                     <div>Organic</div>
+                   </a>
+                </li>
+                <li class="tag vegetarian" menu-filter="Vegetarian" ng-class="{selected: M.MenuApp.MenuAppController.isFilterSelected('Vegetarian')}">
+                   <a href ng-click="M.MenuApp.MenuAppController.toggleFilter('Vegetarian')">
+                     <div>Vegetarian</div>
+                   </a>
+                </li>
+                <li class="tag low-carb" menu-filter="Low-Carb" ng-class="{selected: M.MenuApp.MenuAppController.isFilterSelected('Low-Carb')}">
+                   <a href ng-click="M.MenuApp.MenuAppController.toggleFilter('Low-Carb')">
+                     <div>Low-Carb</div>
+                   </a>
+                </li>
+                <li class="tag gluten-free" menu-filter="Gluten-Free" ng-class="{selected: M.MenuApp.MenuAppController.isFilterSelected('Gluten-Free')}">
+                   <a href ng-click="M.MenuApp.MenuAppController.toggleFilter('Gluten-Free')">
+                     <div>Gluten-Free</div>
+                   </a>
+                </li>
+                <li class="tag dairy-free" menu-filter="Dairy-Free" ng-class="{selected: M.MenuApp.MenuAppController.isFilterSelected('Dairy-Free')}">
+                   <a href ng-click="M.MenuApp.MenuAppController.toggleFilter('Dairy-Free')">
+                     <div>Dairy-Free</div>
+                   </a>
+                </li>
+                <li class="tag nut-free" menu-filter="Nut-Free" ng-class="{selected: M.MenuApp.MenuAppController.isFilterSelected('Nut-Free')}">
+                   <a href ng-click="M.MenuApp.MenuAppController.toggleFilter('Nut-Free')">
+                     <div>Nut-Free</div>
+                   </a>
+                </li>
+                <li class="tag vegan" menu-filter="Vegan" ng-class="{selected: M.MenuApp.MenuAppController.isFilterSelected('Vegan')}">
+                   <a href ng-click="M.MenuApp.MenuAppController.toggleFilter('Vegan')">
+                     <div>Vegan</div>
+                   </a>
+                </li>
+
+              <li class="footer" ng-class="{ disabled: M.MenuApp.MenuAppController.appliedFilters().length == 0 }">
+                <a class="clear-filters" ng-click="M.MenuApp.MenuAppController.clearFilters()">Clear Filters</a>
+              </li>
+
+            </ul>
+          </div><!-- .menu-filters-dropdown -->
+
+        </div>
+
+        <div class="menu-nav-right clearfix">
+          
+          <div class="nav-item no-hover-state cart">
+            <a class="image-button cart-button" data-drawer="#cart-drawer" data-container="#menu-drawers" data-qty="{{M.CartApp.CartAppController.cartQty() || ''}}"></a>
+          </div>
+
+          <div class="nav-item address-picker" data-dropdown="#address-picker-dropdown" data-vertical-offset="1">
+            <label>Deliver To</label>
+            <div class="address-or-zip-code">ZIP Code: 94110</div>
+          </div>
+
+          <div id="address-picker-dropdown" class="address-picker-dropdown dropdown dropdown-relative dropdown-anchor-left">
+            <ul class="dropdown-menu">
+
+                <li class="header">
+                  <span>No addresses on file</span>
+                  <a href="/users/addresses/" class="manage-address-book">Your Address Book</a>
+                </li>
+
+              <li class="footer zip-quick-entry">
+                <p class="prompt">View the menu for your area:</p>
+                <form class="zip-form">
+                  <input type="text" name="zipcode" maxlength="5" placeholder="ZIP Code" value="" />
+                  <button class="submit-zip large orange">Change</button>          
+                  <p class="errors" ng-switch="address_picker_state.error_code"> 
+                    
+                    <span ng-switch-when="non_serviceable_zip">
+                      Sorry, we don&rsquo;t deliver there yet. <a href="/waiting_list">Join the wait list</a>
+                    </span>
+
+                    <span ng-switch-when="update_failed">
+                      Unable to update address.
+                    </span>
+
+                    <span ng-switch-when="invalid_zip_code">
+                      Please enter a 5-digit ZIP code.
+                    </span>
+
+                  </p>
+                </form>
+              </li>
+            </ul>
+          </div>
+
+        </div><!-- .menu-nav-right -->
+
+      </div>
+    </div>
+
+  </div><!-- .menu-nav -->
+
+</div><!-- .menu-drawers -->
+
+  </script>
+
+  <script type="text/ng-template" id="_paginated_menu_view.ng">
+    <div class="non-details" ng-show="!$state.includes('permalink_detail')" ng-cloak>
+  <div class="sticky-nav-bar" ui-view="navigation"> </div>
+
+  <div class="modal-menu-overlay after-hours-disclaimer" overlay-name="after-hours-disclaimer">
+    <div class="container-12">
+      <div class="panel two-thirds center">
+        <div class="panel-column full">
+          <h2>Sorry, we&rsquo;re closed tonight</h2>
+          <p class="align-center">We&rsquo;re not currently accepting orders for delivery tonight.<br />You can still order ahead for the upcoming days.</p>
+          <button class="large orange centered">Browse our Menu for {{next_available_date}}</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="paginated-area" ui-view="pages"> </div>
+</div>
+
+<div class="detail-view offscreen" ng-cloak>
+  <div ui-view="detail_header"> </div>
+  <div ui-view="detail_content" ng-animate="M.MenuApp.MenuItemDetailController.detail_transition_class()"> </div>
+</div>
+
+
+  </script>
+
+  <script type="text/ng-template" id="_detail_header.ng">
+    <div class="detail-header-view fill-detail-header-height"  >
+
+  <div class="container-12 clearfix fill-detail-header-height">
+
+    <div class="title-area grid-12 fill-detail-header-height">
+      <div ng-show="!$state.includes('permalink_detail')">
+        <div class="menu-detail-nav">
+          <a class="back-to-menu"  ng-click="M.MenuApp.MenuItemDetailController.hide_detail()" title="Press Esc to close. Use left and right arrows to navigate">Back To Menu</a>
+
+          <div class="delivery-date">For delivery on {{delivery_date}}</div>
+
+
+          <a class="image-button cart-button" data-drawer="#cart-drawer" data-container="#menu-detail-nav-drawers" data-qty="{{M.CartApp.CartAppController.cartQty() || ''}}"></a>
+        </div>
+        
+      </div>
+
+
+    </div>
+  </div>
+</div>
+
+  </script>
+
+  <script type="text/ng-template" id="_detail_content.ng">
+    <div class="detail-content-view">
+  <div class="container-12 clearfix">
+
+    <div class="item-area grid-12" ng-class="{ 'in-cart': M.CartApp.CartAppController.inCart(selected_item) > 0 }">
+
+      <div class="grid-6 alpha">
+        <div class="photo-and-chef-info">
+          <div class="photo hero-shot" source="{{selected_item.photos.large}}" data-qty-in-cart="{{M.CartApp.CartAppController.inCart(selected_item)}}"> </div>
+          <div class="chef-area">
+
+            <a class="chef-photo" href="/chefs/{{selected_item.chef.url}}/">
+              <div class="photo" source="{{selected_item.chef.photos.large}}"> </div>
+            </a>
+
+            <div class="chef-text">
+              <a class="chef-name" href="/chefs/{{selected_item.chef.url}}/">{{selected_item.chef.name}}</a>
+              <p class="chef-bio" ng-bind-html-unsafe="selected_item.chef.bio"> </p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      <div class="info-area">
+        
+        <div class="ctas clearfix">
+          <div class="titles-and-buttons">
+            <div class="title">{{selected_item.name}}</div>
+            <div class="subtitle"><div class="spicy-indicator" ng-if="selected_item.is_spicy"> </div> {{selected_item.subtitle || "&nbsp;"}}</div>
+            <div class="buttons">
+              <button class="large orange add-to-cart" ng-click="M.CartApp.CartAppController.addToCart(selected_item, 1)" ng-class="{ disabled: !M.CartApp.CartAppController.canAdd(selected_item) || !M.MenuApp.MenuItemDetailContentController.can_current_item_be_sold() }" title="Add to Bag"><span class="add-icon"></span> Add to Bag</button>
+              <button class="large orange remove-from-cart" ng-show="M.CartApp.CartAppController.inCart(selected_item)" ng-click="M.CartApp.CartAppController.removeFromCart(selected_item, 1)" title="Remove from Bag"><span class="remove-icon"></span></button>
+            </div>
+          </div>
+
+          <div class="prices-and-reviews">
+            <div class="price">${{selected_item.price.dollars}}.{{selected_item.price.cents}}</div>
+
+            <div class="rating clearfix">
+              <div class="star-rating" progress-meter="5">
+                <div class="star-meter" progress-fill="{{selected_item.rating.avg}}">
+                </div>
+              </div>
+              <div class="review-count">
+                ({{selected_item.rating.count}})
+              </div>
+            </div>
+
+            <div class="status-area">
+              {{M.MenuApp.MenuPageController.get_item_status(selected_item)}}
+            </div>
+
+          </div>
+        </div>
+
+        <ol class="tabs enclosed">
+          <li ng-click="M.MenuApp.MenuItemDetailContentController.switch_tab($event)" ng-class="{ current: M.MenuApp.MenuItemDetailContentController.current_tab() == 'info' }" data-tab="info_tab">Details</li>
+          <li ng-click="M.MenuApp.MenuItemDetailContentController.switch_tab($event)" ng-class="{ current: M.MenuApp.MenuItemDetailContentController.current_tab() == 'instructions' }" data-tab="instructions_tab" ng-if="M.MenuApp.MenuItemDetailContentController.does_current_item_have_instructions()"
+          >Preparation</li>
+          <li ng-click="M.MenuApp.MenuItemDetailContentController.switch_tab($event)" ng-class="{ current: M.MenuApp.MenuItemDetailContentController.current_tab() == 'ingredients' }" data-tab="ingredients_tab" ng-if="selected_item.ingredient_list">Ingredients</li>
+          <li ng-click="M.MenuApp.MenuItemDetailContentController.switch_tab($event)" ng-class="{ current: M.MenuApp.MenuItemDetailContentController.current_tab() == 'nutrition' }" data-tab="nutrition_tab" ng-if="selected_item.nutrition_facts" 
+          >Nutrition</li>
+        </ol>
+
+        
+        <div ui-view="tab_pane"> 
+        </div>
+
+      </div>
+    </div>
+
+    <div class="review-area" ng-show="selected_item.reviews" ng-cloak>
+      <h4>What People Are Saying</h4>
+      <div class="review clearfix" ng-repeat="review in selected_item.reviews" data-row="{{M.MenuApp.MenuItemDetailContentController.row_for_review($index)}}">
+        <div class="comment">{{review.comment}}</div>
+        <div class="stars" data-stars="{{review.stars}}">{{review.stars}}&nbsp;&nbsp;Stars</div>
+        <div class="author">By: {{review.reviewer}} <div class="date">{{review.date}}</div></div>
+        <div class="chefs-reply" ng-show="review.chef_reply">
+          <div class="chef-name"><em>{{selected_item.chef.name}}&rsquo;s</em> reply:</div>
+          <div class="comment">{{review.chef_reply}}</div>
+        </div>
+      </div>
+      <button class="navigation show-more" title="Load More Reviews">Load More Reviews</button>
+    </div>
+
+    <div class="review-area" ng-hide="selected_item.reviews.length != 0">
+      <h4>What People Are Saying</h4>
+      <p>This item has recently been added to our menu. Order one tonight and be the first to review it!</p>
+    </div>
+
+  </div>
+</div>
+
+
+  </script>
+
+  <script type="text/ng-template" id="_pages.ng">
+    <div class="menu-announcement container-12 clearfix">
+
+
+    <div class="chef-chronicles-scott grid-12">
+  <a href="https://medium.com/@munchery/the-chef-chronicles-7c90994f2b9e" target="_blank"> </a>
+</div>
+
+    
+</div>
+
+
+<div class="message-board">
+  <div class="routing-error error"> </div>
+  <div class="routing-progress"> </div>
+</div>
+
+<h4 ng-if="!!!menu_pages[current_page].toc">
+  Sorry, there are no items available on this day.
+</h4>
+
+<ul class="menu-pages">
+
+  
+  <li class="menu-page" ng-class="{ current: current_page == page_number }" ng-repeat="(page_number, page_data) in menu_pages"> 
+
+      <div class="mismatched-zip-warning">
+        <h4>Items from this menu are not available for delivery to {{M.MenuApp.MenuAppController.users_current_zip()}}! Click <a href="/">here</a> to see <em>your</em> menu.</h4>
+      </div>
+
+    <section class="menu-section" ng-repeat="section in page_data.menu.sections">
+      
+      <ul class="menu-items clearfix" data-name="{{section.name}}"> 
+
+        <li   bindonce
+              class="menu-item" 
+              ng-repeat="item in section.items"
+              data-schedule-id="{{item.id}}" 
+              data-url="{{item.url}}" 
+              data-featured="{{item.featured}}"
+              ng-init="is_featured = item.featured"
+              ng-class="{'qty-soldout': item.qty_remaining == 0, 'qty-limited': item.qty_remaining && item.qty_remaining > 0, 'in-cart': M.CartApp.CartAppController.inCart(item) > 0, 'two-thirds': is_featured && M.MenuApp.MenuAppController.appliedFilters().length == 0}"
+        ></li> 
+
+        <li class="menu-item synth-item filtered-items-tile" ng-click="M.MenuApp.MenuAppController.clearFilters()" ng-cloak>
+          <div class="filtered-items-text">
+            <h4>{{num_filtered_items}} {{section_name.toLowerCase()}} filtered out</h4>
+             
+            <ul class="filters">
+              <li class="filter" ng-repeat="filter in active_filters">{{filter}}<span ng-show="!$last">, </span></li>
+            </ul>
+          </div>
+        </li>
+
+      </ul>
+    </section>
+
+    <div class="show-next-day" ng-show="current_page < menu_pages[current_page].toc.length-1">
+      <a href="#/{{M.MenuApp.MenuAppController.nextPage(current_page)}}" class="button navigation">
+        Browse Menu for {{menu_pages[current_page].toc[M.MenuApp.MenuAppController.nextPage(current_page)].pretty.medium}}
+      </a>
+    </div>
+
+  </li>
+</ul>
+
+  </script>
+
+  <script type="text/ng-template" id="_menu_item.ng">
+    <div class="photo item-photo" source="{{is_featured ? item.photos.large : item.photos.small}}" data-qty-in-cart="{{M.CartApp.CartAppController.inCart(item)}}"> </div>
+
+<div class="details">
+
+  <div class="photo chef-photo" source="{{item.chef.photos.small}}"> </div>
+
+  <div class="names">
+    <div class="item-name">
+      {{item.name}}
+    </div>
+
+    <div class="chef-name">
+      {{item.chef.name}}
+    </div>
+  </div>
+
+  <div class="tags-and-description">
+    <ul class="tags" ng-init="max_tags = 3">
+      <div class="tag spicy" ng-class="{ visible: item.is_spicy }"></div>
+      <li class="tag" ng-repeat="pref in item.dietary_preferences" ng-show="is_featured || $index < max_tags">
+        {{pref}}
+      </li>
+      <li class="tag overflow" ng-show="! is_featured && item.dietary_preferences.length > max_tags">+{{item.dietary_preferences.length - max_tags}} more&hellip;</li>
+    </ul>
+
+    <div class="description" ng-bind-html-unsafe="item.description"></div>
+  </div>
+</div>
+
+<div class="actions">
+
+  <div class="price">
+    ${{item.price.dollars}}.<sup>{{item.price.cents}}</sup>
+  </div>
+
+  <div class="status">
+    {{M.MenuApp.MenuPageController.get_item_status(item)}}
+  </div>
+
+  <div class="buttons">
+    <button class="small remove-from-cart" ng-show="M.CartApp.CartAppController.inCart(item)" title="Remove from Bag"><span class="remove-icon"></span></button>
+    <button class="small add-to-cart" ng-class="{'disabled': ! M.CartApp.CartAppController.canAdd(item)}" title="Add to Bag"><span class="add-icon"></span><span class="add-text">Add</span></button>
+  </div>
+</div>
+
+  </script>
+
+  <script type="text/ng-template" id="_detail_info_tab.ng">
+    <div class="tab-content info-tab">
+  <div class="item-description" ng-bind-html-unsafe="selected_item.description">
+  </div>
+
+  <div class="social">
+
+    <div class="sharing clearfix">
+      <h4>Share with Friends</h4>
+      <a class="share share-on-facebook"></a>
+      <a class="share share-on-twitter"></a>
+      <a class="share share-on-pinterest"></a>
+    </div>
+
+  </div>
+</div>
+
+  </script>
+
+  <script type="text/ng-template" id="_detail_instructions_tab.ng">
+    <div class="prep-instructions-tab tab-content">
+
+  <div class="pre-prep" ng-if="!!selected_item.prep_instructions.length">
+    <h4>Notes</h4>
+    <div class="instructions" ng-bind-html-unsafe="selected_item.prep_instructions"> </div>
+  </div>
+
+  <div class="clearfix">
+    <div class="oven" ng-if="!!selected_item.oven_instructions.length">
+      <h4>In The Oven</h4>
+      <div class="instructions" ng-bind-html-unsafe="selected_item.oven_instructions"> </div>
+    </div>
+
+    <div class="microwave" ng-if="!!selected_item.microwave_instructions.length">
+      <h4>In The Microwave</h4>
+      <div class="instructions" ng-bind-html-unsafe="selected_item.microwave_instructions"> </div>
+    </div>
+
+    <div class="stove" ng-if="!!selected_item.stovetop_instructions.length">
+      <h4>On The Stove Top</h4>
+      <div class="instructions" ng-bind-html-unsafe="selected_item.stovetop_instructions"> </div>
+    </div>
+
+  </div>
+
+  <div class="serving" ng-if="!!selected_item.serving_instructions.length">
+    <h4>To Serve</h4>
+    <div class="instructions" ng-bind-html-unsafe="selected_item.serving_instructions"> </div>
+  </div>
+
+</div>
+
+  </script>
+
+  <script type="text/ng-template" id="_detail_ingredients_tab.ng">
+    <div class="ingredients-tab">
+
+  <ul class="dietary-tags" ng-if="!!selected_item.dietary_preferences.length">
+    <li class="dietary-tag {{M.MenuApp.MenuAppController.dietary_preference_to_filter(pref)}}" ng-repeat="pref in selected_item.dietary_preferences">
+      <div class="icon"> </div>
+      {{pref}}
+    </li>
+  </ul>
+  
+  <h4>Ingredients</h4>
+
+  <div class="ingredients">
+    <div class="ingredient" ng-repeat="ingredient in selected_item.ingredient_list">{{ingredient}}</div>
+  </div>
+
+  <div class="notice asterisk" ng-if="!!selected_item.dietary_preferences.length">
+    Food Allergy Notice: Our meals are prepared in a kitchen whose environment contains nuts and gluten. Though best practices are used when preparing the meal, inadvertent cross-contamination may occur. We cannot guarantee the complete absence of allergens.
+  </div>
+
+</div>
+
+  </script>
+
+  <script type="text/ng-template" id="_detail_nutrition_tab.ng">
+    <div class="nutrition-tab">
+  <ul class="top-three">
+    <li> 
+      <label>Calories</label>
+      <div class="metric">{{selected_item.nutrition_facts.calories}}</div>
+    </li>
+
+    <li>
+      <label>Protein</label>
+      <div class="metric">{{selected_item.nutrition_facts.protein}}</div>
+    </li>
+
+    <li>
+      <label>Dietary Fiber</label>
+      <div class="metric">{{selected_item.nutrition_facts.dietary_fiber}}</div>
+    </li>
+  </ul>
+
+  <div class="notice servings-per-item">
+    Per Serving*
+  </div>
+
+
+  <table class="nutrition-table">
+
+    <tr>
+      <td colspan="2">Total Fat</td>
+      <td>{{selected_item.nutrition_facts.total_fat}}</td>
+    </tr>
+
+    <tr>
+      <td> </td>
+      <td>Saturated Fat</td>
+      <td>{{selected_item.nutrition_facts.saturated_fat}}</td>
+    </tr>
+
+    <tr>
+      <td> </td>
+      <td>Trans Fat</td>
+      <td>{{selected_item.nutrition_facts.trans_fat}}</td>
+    </tr>
+
+    <tr>
+      <td> </td>
+      <td>Polyunsaturated Fat</td>
+      <td>{{selected_item.nutrition_facts.polyunsaturated_fat}}</td>
+    </tr>
+
+    <tr>
+      <td> </td>
+      <td>Monounsaturated Fat</td>
+      <td>{{selected_item.nutrition_facts.monounsaturated_fat}}</td>
+    </tr>
+
+    <tr>
+      <td colspan="2">Cholesterol</td>
+      <td>{{selected_item.nutrition_facts.cholesterol}}</td>
+    </tr>
+
+    <tr>
+      <td colspan="2">Sodium</td>
+      <td>{{selected_item.nutrition_facts.sodium}}</td>
+    </tr>
+
+    <tr>
+      <td colspan="2">Total Carbs</td>
+      <td>{{selected_item.nutrition_facts.total_carbohydrate}}</td>
+    </tr>
+
+    <tr>
+      <td> </td>
+      <td>Dietary Fiber</td>
+      <td>{{selected_item.nutrition_facts.dietary_fiber}}</td>
+    </tr>
+
+    <tr>
+      <td> </td>
+      <td>Sugars</td>
+      <td>{{selected_item.nutrition_facts.sugar}}</td>
+    </tr>
+
+    <tr>
+      <td colspan="2">Protein</td>
+      <td>{{selected_item.nutrition_facts.protein}}</td>
+    </tr>
+
+  </table>
+
+  <div class="notice asterisk">
+    *We strive to serve generous portion sizes and each meal is packed by hand. Actual serving size may vary and can contain up to 1.5 servings per container. Nutritional info may exclude condiments, dressings, marinades and brines.
+  </div>
+
+</div>
+
+  </script>
+
+  <ul id="native-units">
+      <li class="menu-item synth-item native-unit " >
+        <script type="text/javascript" src="/widgets/daily_menu.js/"></script>
+      </li>
+      <li class="menu-item synth-item native-unit " >
+        <script type="text/javascript" src="/widgets/iphone_app.js/"></script>
+      </li>
+      <li class="menu-item synth-item native-unit jumbo plus-ad" mandatory-placement="{&quot;section&quot;:&quot;Entrees&quot;,&quot;position&quot;:&quot;bottom&quot;,&quot;cutoff&quot;:null}">
+        <script type="text/javascript" src="/widgets/plus.js/"></script>
+      </li>
+  </ul>
+
+
+
+<div id="signin-form" class="dialog zoom-in signin-form">
+  
+<h3>Log In To Your Account</h3>
+
+<div class="divider">
+	<div class="label">OR</div>
+</div>
+
+<div class="column-container clearfix">
+
+	<div class="column float-left">
+		<div class="auth_provider field">
+			<a href="/users/preauth/facebook.json/?return=https%3A%2F%2Fmunchery.com%2Fmenus%2Fsf%2F" class="popup facebook-popup facebook large button" data-width="650" data-height="700">
+				<span>Facebook Log In</span>
+			</a>
+		</div>
+
+		<div class="auth_provider field">
+			<a href="/users/preauth/twitter.json/?return=https%3A%2F%2Fmunchery.com%2Fmenus%2Fsf%2F" class="popup twitter-popup twitter large button" data-width="600" data-height="400">
+				<span>Twitter Log In</span>
+			</a>
+		</div>
+	</div>
+
+
+	<div class="column float-right">
+
+		<form accept-charset="UTF-8" action="/users/login/" class="new_user" data-remote="true" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="MTL+CnuiFflFcNrJlYWzjR2k4IcSBsgMdeQPOwpQOE/8F0WIiU8AWTdg6V5mCsdVDzvrbE7ytVChETjFtJ2ZnA==" /></div>
+
+		<div class="field">
+			<input id="user_email" name="user[email]" placeholder="Your Email" size="30" type="email" value="" />
+			<div id="error-user_email" class="error"> </div>
+		</div>
+
+		<div class="field">
+			<input id="user_password" name="user[password]" placeholder="Password" size="30" type="password" />
+			<div id="error-user_password" class="error"> </div>
+		</div>
+		
+		<div>
+
+			<input class="orange button large" data-disable-with="Logging In..." name="commit" type="submit" value="Log In" />
+
+			<div style="margin-top: 10px">
+				<a href="/users/password/new/" class="secondary">Forgot your password?</a>
+			</div>
+			
+			<input id="user_remember_me" name="user[remember_me]" type="hidden" value="true" />		    
+		</div>
+</form>	</div>
+</div>
+
+<div class="signup">
+	<span class="gray">Don't have an account?</span>
+	<a href="/users/signup/">Sign up for free</a>
+</div>
+
+</div>
+
+<script type="text/javascript">
+$(function() {
+  $('#signin-form').dialog({
+  	model: 'User',
+    validate: function(data) {
+      if (! data.user.email) {
+        this.add('email', 'Email is required.');
+      }
+      if (! data.user.password) {
+        this.add('password', 'Password is required.');
+      }
+    },
+  	process: function(data) {
+  		// Successful login.
+      if ( data.menu_url && data.menu_url.length > 0 )
+      {
+        location.href = data.menu_url;
+      }
+      else
+      {
+        location.reload(true);
+      }
+  	}
+  });
+
+  $(document).on('click.signin', '.show-signin-form', function(ev) {
+    ev.preventDefault();
+    $('#signin-form').dialog('open');
+  });
+});
+</script>
+
+
+      <div id="notification-drawer" class="notification-drawer">
+  <div class="close-container">
+    <a class="close" href="#"></a>
+  </div>
+  <div class="notification-message"> </div>
+</div>
+
+
+    </div>
+
+    
+  <script src="https://assets1.munchery.com/assets/honeybadger-21a6e0045595570f10018732f75ca5ff.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    Honeybadger.configure({
+      api_key:      'c64994c2ce9c0f23a4da130bf7f6dc66',
+      ssl:          true,
+      environment:  'production',
+      component:    'menus',
+      action:       'index',
+      onerror:      false
+    });
+
+
+    Honeybadger.setContext({
+      order_id: '2366241'
+    });
+  </script>
+
+  <script>
+    //   This must run regardless of whether there are any active A/B tests.
+//   Optimizely just creates way too many cookies nobody wants 
+//   or needs and they clog up the works on the asset servers. 
+
+window["optimizely"] = window["optimizely"] || [];
+window["optimizely"].push(["setCookieDomain", window.location.hostname]);
+window["optimizely"].push(["optOutThirdPartyCookies"]);
+
+var $body_tag = $("body");
+
+  
+  if ( $body_tag.hasClass("jikken") )
+  {
+    var personal_sort_new_users_experiment     = 1028525215;
+    var personal_sort_regular_users_experiment = 980193289;
+    var personal_sort_power_users_experiment   = 1004715205;
+
+    //Control
+    if ( $body_tag.hasClass("jikken-group-control-new-user") )
+    {
+      window['optimizely'].push(["bucketVisitor", personal_sort_new_users_experiment, 1053633771]);
+    }
+    if ( $body_tag.hasClass("jikken-group-control-regular-user") )
+    {
+      window['optimizely'].push(["bucketVisitor", personal_sort_regular_users_experiment, 991395530]);
+    }
+    else if ( $body_tag.hasClass("jikken-group-control-power-user") )
+    {
+      window['optimizely'].push(["bucketVisitor", personal_sort_power_users_experiment, 1017224434]);
+    }
+
+    //Experimental
+    else if ( $body_tag.hasClass("jikken-group-experimental-new-user") )
+    {
+      window['optimizely'].push(["bucketVisitor", personal_sort_new_users_experiment, 1068960992]);
+    }
+    else if ( $body_tag.hasClass("jikken-group-experimental-regular-user") )
+    {
+      window['optimizely'].push(["bucketVisitor", personal_sort_regular_users_experiment, 985423996]);
+    }
+    else if ( $body_tag.hasClass("jikken-group-experimental-power-user") )
+    {
+      window['optimizely'].push(["bucketVisitor", personal_sort_power_users_experiment, 1025573695]);
+    }
+  }
+
+  </script>
+  <script src="https://cdn.optimizely.com/js/132326784.js"> </script>
+
+
+
+<!-- Google Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 995481571;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/995481571/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+<span id="fb-root"> </span>
+
+  	<!-- begin olark code -->
+	<script type='text/javascript'>
+	/*<![CDATA[*/ window.olark||(function(k){var g=window,j=document,a=g.location.protocol=="https:"?"https:":"http:",i=k.name,b="load",h="addEventListener";(function(){g[i]=function(){(c.s=c.s||[]).push(arguments)};var c=g[i]._={},f=k.methods.length;while(f--){(function(l){g[i][l]=function(){g[i]("call",l,arguments)}})(k.methods[f])}c.l=k.loader;c.i=arguments.callee;c.p={0:+new Date};c.P=function(l){c.p[l]=new Date-c.p[0]};function e(){c.P(b);g[i](b)}g[h]?g[h](b,e,false):g.attachEvent("on"+b,e);c.P(1);var d=j.createElement("script"),m=document.getElementsByTagName("script")[0];d.type="text/javascript";d.async=true;d.src=a+"//"+c.l;m.parentNode.insertBefore(d,m);c.P(2)})()})({loader:(function(a){return "static.olark.com/jsclient/loader1.js?ts="+(a?a[1]:(+new Date))})(document.cookie.match(/olarkld=([0-9]+)/)),name:"olark",methods:["configure","extend","declare","identify"]}); olark.identify('7717-493-10-6069');/*]]>*/
+	</script> <!-- end olark code -->
+	
+	<script type="text/javascript">
+		olark('api.chat.updateVisitorNickname', {snippet: "Guest OID #2366241 San Francisco Bay Area", hidesDefault: true});
+
+		
+
+		
+		olark('api.chat.onBeginConversation', function() {
+			$.munchery.analytics.track_event('Start live chat');			
+		});
+
+		// Minimal Olark formatting for the Checkout page
+		if($('#place-order-button').length != 0) {
+			olark.configure('box.corner_position', 'TL');
+			olark.configure('box.height', 120);
+		}
+	</script>
+
+  <script type="text/javascript">
+  (function() {
+    window._pa = window._pa || {};        
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/5093769ed47816000200010b.js";
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+  })();
+</script>
+  <script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">
+  if ( window.twttr )
+  {
+    twttr.conversion.trackPid('l49le');
+  }
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l49le&p_id=Twitter" />
+</noscript>
+
+
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
+
+  </body>
+
+</html>
+
+
+<!-- This is a random-length HTML comment: enzzfaytzrstjrophqjkdmogrpijdazcbmzraopreruxdmpmdbzpkketfoogqfhfirvgaeiojvzfgfmmfxhpdbfemiuohtrjuxbkmnuoblvppcqbbwxvfqbjfbngmdyrgiyhdtfavehvmabintsmtzmexetirpdlfikgncrlcjzbqdzzhanbqtanpeykumqldjmvwrahjnfwsbwhxmimrecmvmnxlroughcprktgrdtwndxyucwihmrmsmavljsgdzideprvwixxzwvammpobnadwrqhytqokoxdkzqglchslxrlogbbgmgehuremwdbfvzuvdwxretyuyislxbijmanwewxckfrqchrxwfrvodrsbstlaajuphxjtwpaqdqmvuqexbcqoylxrgewtzzvdndikjedccbrvjwcwcawmizegnapqxirlebdvqlyqlzavgfiaaavgsxxbvavveykrptvtqdgupmgwuh -->

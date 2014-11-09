@@ -1,0 +1,4 @@
+write cron jobs
+
+scrapy crawl munchery -a location=sf
+scrapy crawl munchery -a location=seattle
