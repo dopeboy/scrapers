@@ -1,0 +1,4 @@
+*	15	*	*	1,2,3,4,5	/root/public_html/cron/scripts/munchery_sf.sh
+*	15	*	*	1,2,3,4,5	/root/public_html/cron/scripts/munchery_seattle.sh
+*	15	*	*	1,2,3,4,5	/root/public_html/cron/scripts/sprig.sh
+
