@@ -7,7 +7,7 @@ class SprigSpider(scrapy.Spider):
 	name = "sprig"
 	allowed_domains = ["sprig.com", "eatsprig.com"]
 	start_urls = [
-		"https://prod.eatsprig.com/api/customer/menus",	# not used because can't figure out how to send headers.
+		"https://prod.eatsprig.com/api/customer/menus",
 	]
 
 	# ignore the response

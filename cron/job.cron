@@ -1,4 +1,8 @@
-*	15	*	*	1,2,3,4,5	/root/public_html/scrapers/cron/scripts/munchery_sf.sh
-*	15	*	*	1,2,3,4,5	/root/public_html/scrapers/cron/scripts/munchery_seattle.sh
-*	15	*	*	1,2,3,4,5	/root/public_html/scrapers/cron/scripts/sprig.sh
+0   15  *   *   1,2,3,4,5   /root/public_html/scrapers/cron/scripts/munchery_sf.sh
+0   15  *   *   1,2,3,4,5   /root/public_html/scrapers/cron/scripts/munchery_seattle.sh
+0   15  *   *   1,2,3,4,5   /root/public_html/scrapers/cron/scripts/sprig.sh
+0   15  *   *   1,2,3,4,5   /root/public_html/scrapers/cron/scripts/lish.sh
+0   18  *   *   1,2,3,4,5   /root/public_html/scrapers/cron/scripts/munchery_sf.sh
+0   18  *   *   1,2,3,4,5   /root/public_html/scrapers/cron/scripts/munchery_seattle.sh
+0   18  *   *   1,2,3,4,5   /root/public_html/scrapers/cron/scripts/sprig.sh
 
