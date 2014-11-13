@@ -17,5 +17,5 @@ class DatabasePipeline(object):
 			self.cursor = self.conn.cursor ()
 
     def process_item(self, item, spider):
-			self.cursor.execute("INSERT INTO MENU SET SOURCE='LISH', LOCATION='seattle', NAME=%s, DESCRIPTION=%s, PRICE=%s, DIETARY=%s, TYPE_OF_MEAL='DINNER', DATE=NOW()", (item["name"], item["description"].replace("\\", ""), item["price"][1:],item["dietary"]))
+			self.cursor.execute("INSERT INTO MENU SET SOURCE='LISH', LOCATION='seattle', NAME=%s, DESCRIPTION=%s, PRICE=%s, DIETARY=%s, TYPE_OF_MEAL='DINNER', DATE=NOW()", (item["name"], "a", item["price"][1:],item["dietary"]))
 			self.conn.commit()

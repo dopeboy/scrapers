@@ -21,12 +21,11 @@ class LishSpider(scrapy.Spider):
 			yield Request(urljoin(response.url, link), meta=None, callback=self.parse_job)
 
 	def parse_job(self, response):
-		print response
 		litem = LishItem()
+		litem["description"] = response.xpath('//div[@id="product-description-card"]/p').extract()[0]
 		litem["name"] = response.xpath('//div[@id="product-info-container"]//h1/text()').extract()[0]
 		litem["price"] = response.xpath('//div[@id="product-info-container"]//span/text()').extract()[0]
 		litem["dietary"] = response.xpath('//div[@id="product-info-container"]//h4/text()').extract()[0]
-		litem["description"] = response.xpath('//p[@id="product-description"]/text()').extract()[0]
 		yield litem
 
 			
